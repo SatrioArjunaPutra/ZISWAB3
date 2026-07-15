@@ -8,6 +8,7 @@ import Sekolah_layer from "./Sekolah_layer";
 import ZoomToFeature from "./ZoomToFeature";
 import Desa_Kelurahan_layer from "./Desa_Kelurahan_layer";
 import PerguruanTinggiLayer from "./Perguruan_Tinggi_layer";
+import SearchBar from "./SearchBar";
 
 class MapErrorBoundary extends React.Component {
   constructor(props) {
@@ -159,6 +160,7 @@ function MapView() {
           height: "100%",
         }}
       >
+        <SearchBar />
         <TileLayer
           attribution="&copy; OpenStreetMap & CARTO"
           url="https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png"
