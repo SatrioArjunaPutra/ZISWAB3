@@ -1486,8 +1486,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.61861,
-          -6.90389
+          107.63042745422572,
+          -6.972953040835468
         ]
       },
       "properties": {
@@ -1497,8 +1497,8 @@
         "Kabupaten/Kota": "Kota Bandung",
         "Kecamatan": "Tidak tersedia",
         "Kelurahan": "Tidak tersedia",
-        "longitude": 107.61861,
-        "latitude": -6.90389
+        "longitude": 107.63042745422572,
+        "latitude": -6.972953040835468
       }
     },
     {
