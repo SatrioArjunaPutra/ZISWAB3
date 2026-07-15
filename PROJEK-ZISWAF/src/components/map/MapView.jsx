@@ -7,6 +7,7 @@ import Kecamatan_Layer from "./Kecamatan_layer";
 import Sekolah_layer from "./Sekolah_layer";
 import ZoomToFeature from "./ZoomToFeature";
 import Desa_Kelurahan_layer from "./Desa_Kelurahan_layer";
+import PerguruanTinggiLayer from "./Perguruan_Tinggi_layer";
 
 class MapErrorBoundary extends React.Component {
   constructor(props) {
@@ -181,6 +182,13 @@ function MapView() {
 
         {/* Titik Sekolah (SD/SMP/SMA), muncul begitu desa dipilih */}
         <Sekolah_layer
+          selectedKabupaten={selectedKabupaten}
+          selectedKecamatan={selectedKecamatan}
+          selectedDesa={selectedDesa}
+        />
+
+        {/* Titik Perguruan Tinggi */}
+        <PerguruanTinggiLayer 
           selectedKabupaten={selectedKabupaten}
           selectedKecamatan={selectedKecamatan}
           selectedDesa={selectedDesa}
