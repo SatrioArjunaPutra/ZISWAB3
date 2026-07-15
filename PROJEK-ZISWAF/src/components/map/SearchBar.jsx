@@ -66,11 +66,11 @@ export default function SearchBar() {
       return;
     }
     
-    const lowerVal = val.toLowerCase();
+    const lowerVal = val.toLowerCase().replace(/\s+/g, '');
     
     // Filter data (limit to 10 results for performance)
     const filtered = data
-      .filter(item => item.n.toLowerCase().includes(lowerVal))
+      .filter(item => item.n.toLowerCase().replace(/\s+/g, '').includes(lowerVal))
       .slice(0, 10);
       
     setResults(filtered);
