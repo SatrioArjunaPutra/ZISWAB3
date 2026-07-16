@@ -1,0 +1,191 @@
+[
+  {
+    "nama_kabkota": "Bandung",
+    "zakat_maal": 6419458166,
+    "zakat_fitrah": 28176000,
+    "infak": 4184055212,
+    "total_zis": 10631689378
+  },
+  {
+    "nama_kabkota": "Bandung Barat",
+    "zakat_maal": 3714598635,
+    "zakat_fitrah": 5220000,
+    "infak": 548620357,
+    "total_zis": 4268438992
+  },
+  {
+    "nama_kabkota": "Bekasi",
+    "zakat_maal": 18084081030,
+    "zakat_fitrah": 2090727010,
+    "infak": 1507248836,
+    "total_zis": 21682056876
+  },
+  {
+    "nama_kabkota": "Bogor",
+    "zakat_maal": 10036558935,
+    "zakat_fitrah": 684318238,
+    "infak": 1745380295,
+    "total_zis": 12466257468
+  },
+  {
+    "nama_kabkota": "Ciamis",
+    "zakat_maal": 7060348781,
+    "zakat_fitrah": 8054585,
+    "infak": 14758727563,
+    "total_zis": 21827130929
+  },
+  {
+    "nama_kabkota": "Cianjur",
+    "zakat_maal": 6033742087,
+    "zakat_fitrah": 18129590507,
+    "infak": 4874739319,
+    "total_zis": 29038071913
+  },
+  {
+    "nama_kabkota": "Cirebon",
+    "zakat_maal": 12646195883,
+    "zakat_fitrah": 1956499024,
+    "infak": 3552398537,
+    "total_zis": 18155093444
+  },
+  {
+    "nama_kabkota": "Garut",
+    "zakat_maal": 8724623080,
+    "zakat_fitrah": 13892500,
+    "infak": 9185797160,
+    "total_zis": 17924312740
+  },
+  {
+    "nama_kabkota": "Indramayu",
+    "zakat_maal": 6288301463,
+    "zakat_fitrah": 140962440,
+    "infak": 3868467810,
+    "total_zis": 10297731713
+  },
+  {
+    "nama_kabkota": "Karawang",
+    "zakat_maal": 3934039112,
+    "zakat_fitrah": 742153680,
+    "infak": 3836943883,
+    "total_zis": 8513136675
+  },
+  {
+    "nama_kabkota": "Kuningan",
+    "zakat_maal": 2372698151,
+    "zakat_fitrah": 1568072718,
+    "infak": 2704837198,
+    "total_zis": 6645608067
+  },
+  {
+    "nama_kabkota": "Majalengka",
+    "zakat_maal": 13465744286,
+    "zakat_fitrah": 2614963373,
+    "infak": 245271331,
+    "total_zis": 16325978990
+  },
+  {
+    "nama_kabkota": "Pangandaran",
+    "zakat_maal": 207270298,
+    "zakat_fitrah": 0,
+    "infak": 1522686503,
+    "total_zis": 1729956801
+  },
+  {
+    "nama_kabkota": "Purwakarta",
+    "zakat_maal": 2317847870,
+    "zakat_fitrah": 2997520252,
+    "infak": 2457318386,
+    "total_zis": 7772686508
+  },
+  {
+    "nama_kabkota": "Subang",
+    "zakat_maal": 2091408000,
+    "zakat_fitrah": 171936000,
+    "infak": 3310679968,
+    "total_zis": 5573023968
+  },
+  {
+    "nama_kabkota": "Sukabumi",
+    "zakat_maal": 17919350718,
+    "zakat_fitrah": 1137059394,
+    "infak": 3512567768,
+    "total_zis": 22568977880
+  },
+  {
+    "nama_kabkota": "Sumedang",
+    "zakat_maal": 10830821803,
+    "zakat_fitrah": 32509465000,
+    "infak": 2886639569,
+    "total_zis": 46226926372
+  },
+  {
+    "nama_kabkota": "Tasikmalaya",
+    "zakat_maal": 13508681691,
+    "zakat_fitrah": 4948832438,
+    "infak": 6529628258,
+    "total_zis": 24987142387
+  },
+  {
+    "nama_kabkota": "Kota Bandung",
+    "zakat_maal": 26013560685,
+    "zakat_fitrah": 8846000,
+    "infak": 5072366240,
+    "total_zis": 31094772925
+  },
+  {
+    "nama_kabkota": "Kota Banjar",
+    "zakat_maal": 7131918761,
+    "zakat_fitrah": 3590000,
+    "infak": 1054338357,
+    "total_zis": 8189847118
+  },
+  {
+    "nama_kabkota": "Kota Bekasi",
+    "zakat_maal": 6075621999,
+    "zakat_fitrah": 1877556476,
+    "infak": 10252865939,
+    "total_zis": 18206044414
+  },
+  {
+    "nama_kabkota": "Kota Bogor",
+    "zakat_maal": 4871662773,
+    "zakat_fitrah": 179000570,
+    "infak": 694731708,
+    "total_zis": 5745395051
+  },
+  {
+    "nama_kabkota": "Kota Cimahi",
+    "zakat_maal": 2790523000,
+    "zakat_fitrah": 3350000,
+    "infak": 162346000,
+    "total_zis": 2956219000
+  },
+  {
+    "nama_kabkota": "Kota Cirebon",
+    "zakat_maal": 1997237999,
+    "zakat_fitrah": 4417196800,
+    "infak": 1004742641,
+    "total_zis": 7419177440
+  },
+  {
+    "nama_kabkota": "Kota Depok",
+    "zakat_maal": 5130910601,
+    "zakat_fitrah": 548853181,
+    "infak": 2220787412,
+    "total_zis": 7900551194
+  },
+  {
+    "nama_kabkota": "Kota Sukabumi",
+    "zakat_maal": 3297027130,
+    "zakat_fitrah": 2367172522,
+    "infak": 910571014,
+    "total_zis": 6574770666
+  },
+  {
+    "nama_kabkota": "Kota Tasikmalaya",
+    "zakat_maal": 5478964194,
+    "zakat_fitrah": 3150000,
+    "infak": 2071467572,
+    "total_zis": 7553581766
+  }
+]

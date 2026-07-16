@@ -16,8 +16,8 @@ export default function Kabupaten_Kota_Layer({
       .then((data) => setKabupaten(data))
       .catch((err) => console.log(err));
 
-    // Fetch mock ZIS data
-    fetch("/data/zis_jabar_mock.json")
+    // Fetch ZIS data
+    fetch("/data/zis_jabar.json")
       .then((res) => res.json())
       .then((data) => setZisData(data))
       .catch((err) => console.log(err));
