@@ -7,82 +7,96 @@ export default function Kabupaten_Kota_Layer({
   setHoverInfo,
 }) {
   const [kabupaten, setKabupaten] = useState(null);
+  const [zisData, setZisData] = useState([]);
 
   useEffect(() => {
+    // Fetch GeoJSON
     fetch("/data/geojson/kabupaten_kota.geojson")
       .then((res) => res.json())
       .then((data) => setKabupaten(data))
       .catch((err) => console.log(err));
+
+    // Fetch mock ZIS data
+    fetch("/data/zis_jabar_mock.json")
+      .then((res) => res.json())
+      .then((data) => setZisData(data))
+      .catch((err) => console.log(err));
   }, []);
 
-  const defaultStyle = {
-    color: "#1976D2",
-    weight: 2,
-    fillColor: "#64B5F6",
-    fillOpacity: 0.25,
+  const getZisData = (namaKabupaten) => {
+    return zisData.find(d => d.nama_kabkota.toUpperCase() === namaKabupaten.toUpperCase());
   };
 
-  const hoverStyle = {
-    color: "#FB8C00",
-    weight: 3,
-    fillOpacity: 0.45,
-  };
-
-  const selectedStyle = {
-    color: "#2E7D32",
-    weight: 4,
-    fillColor: "#4CAF50",
-    fillOpacity: 0.5,
+  const getColor = (total) => {
+    if (!total) return "#64B5F6";
+    return total > 150000000000 ? '#800026' :
+           total > 120000000000  ? '#BD0026' :
+           total > 90000000000  ? '#E31A1C' :
+           total > 60000000000  ? '#FC4E2A' :
+           total > 30000000000   ? '#FD8D3C' :
+           total > 10000000000   ? '#FEB24C' :
+                                  '#FED976';
   };
 
   const styleFunction = (feature) => {
-    if (!selectedKabupaten) return defaultStyle;
+    const zis = getZisData(feature.properties.WADMKK);
+    const fillColor = zis ? getColor(zis.total_zis) : "#64B5F6";
 
-    if (feature.properties.WADMKK === selectedKabupaten.properties.WADMKK) {
-      return selectedStyle;
+    // If a kabupaten is selected, dim others
+    if (selectedKabupaten && feature.properties.WADMKK !== selectedKabupaten.properties.WADMKK) {
+      return {
+        opacity: 0,
+        fillOpacity: 0,
+      };
+    }
+
+    if (selectedKabupaten && feature.properties.WADMKK === selectedKabupaten.properties.WADMKK) {
+      return {
+        color: "#2E7D32",
+        weight: 4,
+        fillColor: fillColor,
+        fillOpacity: 0.8,
+      };
     }
 
     return {
-      opacity: 0,
-      fillOpacity: 0,
+      color: "#ffffff",
+      weight: 1,
+      fillColor: fillColor,
+      fillOpacity: 0.7,
     };
   };
 
   const onEachFeature = (feature, layer) => {
     const p = feature.properties;
+    const zis = getZisData(p.WADMKK);
 
     layer.on({
-      mouseover(e){
+      mouseover(e) {
+        if (selectedKabupaten?.properties?.WADMKK === p.WADMKK) return;
 
-    if(selectedKabupaten?.properties?.WADMKK === p.WADMKK)
-        return;
+        e.target.setStyle({
+          weight: 3,
+          color: "#000",
+          fillOpacity: 0.9,
+        });
 
-    e.target.setStyle(hoverStyle);
+        setHoverInfo({
+          level: "Kabupaten/Kota",
+          nama: p.WADMKK,
+          kabupaten: p.WADMKK,
+          provinsi: p.WADMPR,
+          zis: zis || null
+        });
+      },
 
-    setHoverInfo({
+      mouseout(e) {
+        if (selectedKabupaten?.properties?.WADMKK === p.WADMKK) return;
 
-        level: "Kabupaten/Kota",
+        e.target.setStyle(styleFunction(feature));
 
-        nama: p.WADMKK,
-
-        kabupaten: p.WADMKK,
-
-        provinsi: p.WADMPR
-
-    });
-
-},
-
-      mouseout(e){
-
-    if(selectedKabupaten?.properties?.WADMKK === p.WADMKK)
-        return;
-
-    e.target.setStyle(defaultStyle);
-
-    setHoverInfo(null);
-
-},
+        setHoverInfo(null);
+      },
 
       click() {
         setSelectedKabupaten(feature);
@@ -94,7 +108,7 @@ export default function Kabupaten_Kota_Layer({
 
   return (
     <GeoJSON
-      key={selectedKabupaten?.properties?.WADMKK || "kabupaten"}
+      key={`${selectedKabupaten?.properties?.WADMKK || "kabupaten"}_${zisData.length}`}
       data={kabupaten}
       style={styleFunction}
       onEachFeature={onEachFeature}

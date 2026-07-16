@@ -145,6 +145,30 @@ function MapView() {
         <td><b>Provinsi</b></td>
         <td>{hoverInfo.provinsi}</td>
       </tr>
+      {hoverInfo.zis && (
+        <>
+          <tr>
+            <td><hr /></td>
+            <td><hr /></td>
+          </tr>
+          <tr>
+            <td><b>Zakat Maal</b></td>
+            <td>Rp {(hoverInfo.zis.zakat_maal / 1000000000).toFixed(2)} M</td>
+          </tr>
+          <tr>
+            <td><b>Zakat Fitrah</b></td>
+            <td>Rp {(hoverInfo.zis.zakat_fitrah / 1000000000).toFixed(2)} M</td>
+          </tr>
+          <tr>
+            <td><b>Infak</b></td>
+            <td>Rp {(hoverInfo.zis.infak / 1000000000).toFixed(2)} M</td>
+          </tr>
+          <tr>
+            <td><b>Total ZIS</b></td>
+            <td><b>Rp {(hoverInfo.zis.total_zis / 1000000000).toFixed(2)} M</b></td>
+          </tr>
+        </>
+      )}
     </tbody>
   </table>
 </div>
