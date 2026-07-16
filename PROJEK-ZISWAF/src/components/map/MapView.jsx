@@ -9,6 +9,7 @@ import ZoomToFeature from "./ZoomToFeature";
 import Desa_Kelurahan_layer from "./Desa_Kelurahan_layer";
 import PerguruanTinggiLayer from "./Perguruan_Tinggi_layer";
 import SearchBar from "./SearchBar";
+import SummaryPanel from "./SummaryPanel";
 
 class MapErrorBoundary extends React.Component {
   constructor(props) {
@@ -67,6 +68,8 @@ function MapView() {
         height: "100vh",
       }}
     >
+      <SummaryPanel />
+
       {/* Tombol Kembali */}
       {selectedKabupaten && (
         <button
