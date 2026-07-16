@@ -175,6 +175,50 @@ function MapView() {
   </div>
 )}
 
+      {/* Legend Tingkat Prioritas */}
+      <div
+        style={{
+          position: "absolute",
+          bottom: 30,
+          left: 15,
+          zIndex: 9999,
+          background: "#fff",
+          padding: "15px",
+          borderRadius: "8px",
+          boxShadow: "0 2px 10px rgba(0,0,0,0.2)",
+          fontFamily: "sans-serif",
+          fontSize: "14px",
+          color: "#333",
+        }}
+      >
+        <div style={{ fontWeight: "bold", marginBottom: "12px", color: "#192c55" }}>TINGKAT PRIORITAS</div>
+        
+        <div style={{ display: "flex", alignItems: "center", marginBottom: "8px" }}>
+          <div style={{ width: "22px", height: "18px", background: "#f03b20", marginRight: "10px" }}></div>
+          <span style={{ fontWeight: "500" }}>Sangat Tinggi</span>
+        </div>
+        <div style={{ display: "flex", alignItems: "center", marginBottom: "8px" }}>
+          <div style={{ width: "22px", height: "18px", background: "#fd8d3c", marginRight: "10px" }}></div>
+          <span style={{ fontWeight: "500" }}>Tinggi</span>
+        </div>
+        <div style={{ display: "flex", alignItems: "center", marginBottom: "8px" }}>
+          <div style={{ width: "22px", height: "18px", background: "#fed976", marginRight: "10px" }}></div>
+          <span style={{ fontWeight: "500" }}>Sedang</span>
+        </div>
+        <div style={{ display: "flex", alignItems: "center", marginBottom: "8px" }}>
+          <div style={{ width: "22px", height: "18px", background: "#74c476", marginRight: "10px" }}></div>
+          <span style={{ fontWeight: "500" }}>Rendah</span>
+        </div>
+        <div style={{ display: "flex", alignItems: "center", marginBottom: "12px" }}>
+          <div style={{ width: "22px", height: "18px", background: "#c7e9c0", marginRight: "10px" }}></div>
+          <span style={{ fontWeight: "500" }}>Sangat Rendah</span>
+        </div>
+        
+        <div style={{ fontSize: "12px", color: "#222", fontWeight: "600" }}>
+          (Berdasarkan Indeks<br/>Komposit)
+        </div>
+      </div>
+
       <MapContainer
         center={[-6.90389, 107.61861]}
         zoom={8}
