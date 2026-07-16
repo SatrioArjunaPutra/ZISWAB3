@@ -29,13 +29,13 @@ export default function Kabupaten_Kota_Layer({
 
   const getColor = (total) => {
     if (!total) return "#64B5F6";
-    return total > 150000000000 ? '#800026' :
-           total > 120000000000  ? '#BD0026' :
-           total > 90000000000  ? '#E31A1C' :
-           total > 60000000000  ? '#FC4E2A' :
-           total > 30000000000   ? '#FD8D3C' :
-           total > 10000000000   ? '#FEB24C' :
-                                  '#FED976';
+    return total > 40000000000 ? '#800026' :
+           total > 30000000000 ? '#BD0026' :
+           total > 20000000000 ? '#E31A1C' :
+           total > 15000000000 ? '#FC4E2A' :
+           total > 10000000000 ? '#FD8D3C' :
+           total > 5000000000  ? '#FEB24C' :
+                                 '#FED976';
   };
 
   const styleFunction = (feature) => {
