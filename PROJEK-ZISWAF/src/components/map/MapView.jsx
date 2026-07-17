@@ -189,6 +189,26 @@ function MapView() {
     </div>
     
     <div style={{ padding: "16px 20px", display: "flex", flexDirection: "column", gap: "12px" }}>
+      
+      {/* Data ZIS */}
+      {hoverInfo.zis && (
+        <div style={{ background: "#e8f5e9", padding: "12px", borderRadius: "10px", border: "1px solid #c8e6c9" }}>
+          <div style={{ fontSize: "12px", fontWeight: "700", color: "#2E7D32", marginBottom: "8px" }}>Data ZIS (Zakat, Infak, Sedekah)</div>
+          <div style={{ display: "flex", justifyContent: "space-between", fontSize: "12px", color: "#333", marginBottom: "4px" }}>
+             <span>Zakat Maal:</span> <span style={{fontWeight:"600"}}>Rp {hoverInfo.zis.zakat_maal.toLocaleString("id-ID")}</span>
+          </div>
+          <div style={{ display: "flex", justifyContent: "space-between", fontSize: "12px", color: "#333", marginBottom: "4px" }}>
+             <span>Zakat Fitrah:</span> <span style={{fontWeight:"600"}}>Rp {hoverInfo.zis.zakat_fitrah.toLocaleString("id-ID")}</span>
+          </div>
+          <div style={{ display: "flex", justifyContent: "space-between", fontSize: "12px", color: "#333", marginBottom: "4px" }}>
+             <span>Infak:</span> <span style={{fontWeight:"600"}}>Rp {hoverInfo.zis.infak.toLocaleString("id-ID")}</span>
+          </div>
+          <div style={{ display: "flex", justifyContent: "space-between", fontSize: "13px", color: "#1B5E20", fontWeight: "700", marginTop: "6px", paddingTop: "6px", borderTop: "1px solid #c8e6c9" }}>
+             <span>Total ZIS:</span> <span>Rp {hoverInfo.zis.total_zis.toLocaleString("id-ID")}</span>
+          </div>
+        </div>
+      )}
+
       {hoverData && (
          <>
            <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: "10px" }}>
