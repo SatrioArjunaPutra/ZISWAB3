@@ -1,5 +1,5 @@
 {
-  "KABUPATEN BANDUNG": {
+  "KABUPATENBANDUNG": {
     "ARJASARI": {
       "ANCOLMEKAR": {
         "jumlah_kk": 1935,
@@ -385,7 +385,7 @@
           "kepercayaan": 0
         }
       },
-      "BANJARAN WETAN": {
+      "BANJARANWETAN": {
         "jumlah_kk": 6580,
         "pria": 9621,
         "wanita": 9380,
@@ -790,7 +790,7 @@
       }
     },
     "CICALENGKA": {
-      "BABAKAN PEUTEUY": {
+      "BABAKANPEUTEUY": {
         "jumlah_kk": 3939,
         "pria": 6446,
         "wanita": 6130,
@@ -809,7 +809,7 @@
           "kepercayaan": 1
         }
       },
-      "CICALENGKA KULON": {
+      "CICALENGKAKULON": {
         "jumlah_kk": 2456,
         "pria": 3737,
         "wanita": 3740,
@@ -828,7 +828,7 @@
           "kepercayaan": 0
         }
       },
-      "CICALENGKA WETAN": {
+      "CICALENGKAWETAN": {
         "jumlah_kk": 4909,
         "pria": 7573,
         "wanita": 7555,
@@ -1309,7 +1309,7 @@
       }
     },
     "CILEUNYI": {
-      "CIBIRU HILIR": {
+      "CIBIRUHILIR": {
         "jumlah_kk": 4448,
         "pria": 7013,
         "wanita": 7002,
@@ -1328,7 +1328,7 @@
           "kepercayaan": 0
         }
       },
-      "CIBIRU WETAN": {
+      "CIBIRUWETAN": {
         "jumlah_kk": 6439,
         "pria": 9995,
         "wanita": 9885,
@@ -1347,7 +1347,7 @@
           "kepercayaan": 0
         }
       },
-      "CILEUNYI KULON": {
+      "CILEUNYIKULON": {
         "jumlah_kk": 8587,
         "pria": 13432,
         "wanita": 13071,
@@ -1366,7 +1366,7 @@
           "kepercayaan": 0
         }
       },
-      "CILEUNYI WETAN": {
+      "CILEUNYIWETAN": {
         "jumlah_kk": 11162,
         "pria": 17322,
         "wanita": 16699,
@@ -2193,7 +2193,7 @@
       }
     },
     "DAYEUHKOLOT": {
-      "CANGKUANG KULON": {
+      "CANGKUANGKULON": {
         "jumlah_kk": 11916,
         "pria": 18457,
         "wanita": 17942,
@@ -2212,7 +2212,7 @@
           "kepercayaan": 0
         }
       },
-      "CANGKUANG WETAN": {
+      "CANGKUANGWETAN": {
         "jumlah_kk": 6313,
         "pria": 9766,
         "wanita": 9446,
@@ -2750,7 +2750,7 @@
           "kepercayaan": 0
         }
       },
-      "RESMI TINGAL": {
+      "RESMITINGAL": {
         "jumlah_kk": 2181,
         "pria": 3237,
         "wanita": 3077,
@@ -2885,7 +2885,7 @@
           "kepercayaan": 0
         }
       },
-      "GAJAH MEKAR": {
+      "GAJAHMEKAR": {
         "jumlah_kk": 4101,
         "pria": 6726,
         "wanita": 6388,
@@ -3250,7 +3250,7 @@
       }
     },
     "MARGAASIH": {
-      "CIGONDEWAH HILIR": {
+      "CIGONDEWAHHILIR": {
         "jumlah_kk": 4477,
         "pria": 7426,
         "wanita": 7129,
@@ -3366,7 +3366,7 @@
       }
     },
     "MARGAHAYU": {
-      "MARGAHAYU SELATAN": {
+      "MARGAHAYUSELATAN": {
         "jumlah_kk": 11302,
         "pria": 17122,
         "wanita": 16930,
@@ -3385,7 +3385,7 @@
           "kepercayaan": 0
         }
       },
-      "MARGAHAYU TENGAH": {
+      "MARGAHAYUTENGAH": {
         "jumlah_kk": 6298,
         "pria": 9668,
         "wanita": 9624,
@@ -3539,7 +3539,7 @@
           "kepercayaan": 0
         }
       },
-      "GANJAR SABAR": {
+      "GANJARSABAR": {
         "jumlah_kk": 3073,
         "pria": 4854,
         "wanita": 4746,
@@ -3596,7 +3596,7 @@
           "kepercayaan": 0
         }
       },
-      "NAGREG KENDAN": {
+      "NAGREGKENDAN": {
         "jumlah_kk": 1939,
         "pria": 3153,
         "wanita": 3088,
@@ -4864,7 +4864,7 @@
           "kepercayaan": 0
         }
       },
-      "NANJUNG MEKAR": {
+      "NANJUNGMEKAR": {
         "jumlah_kk": 3849,
         "pria": 6170,
         "wanita": 6072,
@@ -4883,7 +4883,7 @@
           "kepercayaan": 0
         }
       },
-      "RANCAEKEK KENCANA": {
+      "RANCAEKEKKENCANA": {
         "jumlah_kk": 7258,
         "pria": 11132,
         "wanita": 11298,
@@ -4902,7 +4902,7 @@
           "kepercayaan": 0
         }
       },
-      "RANCAEKEK KULON": {
+      "RANCAEKEKKULON": {
         "jumlah_kk": 4885,
         "pria": 7597,
         "wanita": 7345,
@@ -4921,7 +4921,7 @@
           "kepercayaan": 0
         }
       },
-      "RANCAEKEK WETAN": {
+      "RANCAEKEKWETAN": {
         "jumlah_kk": 8010,
         "pria": 12475,
         "wanita": 12144,
@@ -4997,7 +4997,7 @@
           "kepercayaan": 0
         }
       },
-      "TEGAL SUMEDANG": {
+      "TEGALSUMEDANG": {
         "jumlah_kk": 1639,
         "pria": 2542,
         "wanita": 2426,
@@ -5345,9 +5345,9 @@
       }
     }
   },
-  "KABUPATEN BANDUNG BARAT": {
+  "KABUPATENBANDUNGBARAT": {
     "BATUJAJAR": {
-      "BATUJAJAR BARAT": {
+      "BATUJAJARBARAT": {
         "jumlah_kk": 6116,
         "pria": 9219,
         "wanita": 9087,
@@ -5366,7 +5366,7 @@
           "kepercayaan": 0
         }
       },
-      "BATUJAJAR TIMUR": {
+      "BATUJAJARTIMUR": {
         "jumlah_kk": 5697,
         "pria": 8980,
         "wanita": 8695,
@@ -7668,7 +7668,7 @@
       }
     },
     "PADALARANG": {
-      "CAMPAKA MEKAR": {
+      "CAMPAKAMEKAR": {
         "jumlah_kk": 5057,
         "pria": 7483,
         "wanita": 7048,
@@ -8476,7 +8476,7 @@
       }
     }
   },
-  "KABUPATEN BEKASI": {
+  "KABUPATENBEKASI": {
     "BABELAN": {
       "BABELANKOTA": {
         "jumlah_kk": 15214,
@@ -8535,7 +8535,7 @@
           "kepercayaan": 0
         }
       },
-      "HURIP JAYA": {
+      "HURIPJAYA": {
         "jumlah_kk": 1507,
         "pria": 2518,
         "wanita": 2381,
@@ -8573,7 +8573,7 @@
           "kepercayaan": 1
         }
       },
-      "KEDUNG PENGAWAS": {
+      "KEDUNGPENGAWAS": {
         "jumlah_kk": 6701,
         "pria": 11143,
         "wanita": 10739,
@@ -8921,7 +8921,7 @@
       }
     },
     "CIBARUSAH": {
-      "CIBARUSAH JAYA": {
+      "CIBARUSAHJAYA": {
         "jumlah_kk": 5018,
         "pria": 8056,
         "wanita": 7725,
@@ -8940,7 +8940,7 @@
           "kepercayaan": 0
         }
       },
-      "CIBARUSAH KOTA": {
+      "CIBARUSAHKOTA": {
         "jumlah_kk": 5913,
         "pria": 9892,
         "wanita": 9665,
@@ -9190,7 +9190,7 @@
         }
       }
     },
-    "CIKARANG BARAT": {
+    "CIKARANGBARAT": {
       "CIKEDOKAN": {
         "jumlah_kk": 3487,
         "pria": 4932,
@@ -9210,7 +9210,7 @@
           "kepercayaan": 0
         }
       },
-      "DANAU INDAH": {
+      "DANAUINDAH": {
         "jumlah_kk": 3222,
         "pria": 4840,
         "wanita": 4622,
@@ -9343,7 +9343,7 @@
           "kepercayaan": 2
         }
       },
-      "TELAGA ASIH": {
+      "TELAGAASIH": {
         "jumlah_kk": 8077,
         "pria": 12808,
         "wanita": 12473,
@@ -9382,7 +9382,7 @@
         }
       }
     },
-    "CIKARANG PUSAT": {
+    "CIKARANGPUSAT": {
       "CICAU": {
         "jumlah_kk": 2779,
         "pria": 4181,
@@ -9498,7 +9498,7 @@
         }
       }
     },
-    "CIKARANG SELATAN": {
+    "CIKARANGSELATAN": {
       "CIANTRA": {
         "jumlah_kk": 12676,
         "pria": 21702,
@@ -9633,7 +9633,7 @@
         }
       }
     },
-    "CIKARANG TIMUR": {
+    "CIKARANGTIMUR": {
       "CIPAYUNG": {
         "jumlah_kk": 5223,
         "pria": 7522,
@@ -9787,7 +9787,7 @@
         }
       }
     },
-    "CIKARANG UTARA": {
+    "CIKARANGUTARA": {
       "CIKARANGKOTA": {
         "jumlah_kk": 7834,
         "pria": 12270,
@@ -9998,7 +9998,7 @@
         }
       }
     },
-    "KARANG BAHAGIA": {
+    "KARANGBAHAGIA": {
       "KARANGANYAR": {
         "jumlah_kk": 4794,
         "pria": 7669,
@@ -10152,7 +10152,7 @@
         }
       }
     },
-    "KEDUNG WARINGIN": {
+    "KEDUNGWARINGIN": {
       "BOJONGSARI": {
         "jumlah_kk": 3173,
         "pria": 4829,
@@ -10307,7 +10307,7 @@
           "kepercayaan": 0
         }
       },
-      "PANTAI BAHAGIA": {
+      "PANTAIBAHAGIA": {
         "jumlah_kk": 2577,
         "pria": 4217,
         "wanita": 3953,
@@ -10326,7 +10326,7 @@
           "kepercayaan": 0
         }
       },
-      "PANTAI BAKTI": {
+      "PANTAIBAKTI": {
         "jumlah_kk": 2583,
         "pria": 4006,
         "wanita": 3862,
@@ -10345,7 +10345,7 @@
           "kepercayaan": 0
         }
       },
-      "PANTAI HARAPANJAYA": {
+      "PANTAIHARAPANJAYA": {
         "jumlah_kk": 2663,
         "pria": 4254,
         "wanita": 4057,
@@ -10364,7 +10364,7 @@
           "kepercayaan": 0
         }
       },
-      "PANTAI MEKAR": {
+      "PANTAIMEKAR": {
         "jumlah_kk": 2711,
         "pria": 4306,
         "wanita": 4172,
@@ -10383,7 +10383,7 @@
           "kepercayaan": 0
         }
       },
-      "PANTAI SEDERHANA": {
+      "PANTAISEDERHANA": {
         "jumlah_kk": 1421,
         "pria": 2296,
         "wanita": 2165,
@@ -10652,7 +10652,7 @@
         }
       }
     },
-    "SERANG BARU": {
+    "SERANGBARU": {
       "CILANGKARA": {
         "jumlah_kk": 2408,
         "pria": 3409,
@@ -10978,7 +10978,7 @@
           "kepercayaan": 1
         }
       },
-      "TAMAN RAHAYU": {
+      "TAMANRAHAYU": {
         "jumlah_kk": 4653,
         "pria": 7378,
         "wanita": 7221,
@@ -10997,7 +10997,7 @@
           "kepercayaan": 0
         }
       },
-      "TAMAN SARI": {
+      "TAMANSARI": {
         "jumlah_kk": 4216,
         "pria": 6406,
         "wanita": 6370,
@@ -11557,7 +11557,7 @@
         }
       }
     },
-    "TAMBUN SELATAN": {
+    "TAMBUNSELATAN": {
       "JATIMULYA": {
         "jumlah_kk": 24717,
         "pria": 37594,
@@ -11729,7 +11729,7 @@
           "kepercayaan": 0
         }
       },
-      "TRIDAYA SAKTI": {
+      "TRIDAYASAKTI": {
         "jumlah_kk": 11363,
         "pria": 18495,
         "wanita": 18456,
@@ -11749,7 +11749,7 @@
         }
       }
     },
-    "TAMBUN UTARA": {
+    "TAMBUNUTARA": {
       "JEJALENJAYA": {
         "jumlah_kk": 7944,
         "pria": 13180,
@@ -11904,7 +11904,7 @@
       }
     },
     "TARUMAJAYA": {
-      "PAHLAWAN SETIA": {
+      "PAHLAWANSETIA": {
         "jumlah_kk": 4562,
         "pria": 7673,
         "wanita": 7536,
@@ -11923,7 +11923,7 @@
           "kepercayaan": 0
         }
       },
-      "PANTAI MAKMUR": {
+      "PANTAIMAKMUR": {
         "jumlah_kk": 3331,
         "pria": 5545,
         "wanita": 5337,
@@ -11942,7 +11942,7 @@
           "kepercayaan": 0
         }
       },
-      "PUSAKA RAKYAT": {
+      "PUSAKARAKYAT": {
         "jumlah_kk": 5373,
         "pria": 8732,
         "wanita": 8461,
@@ -11961,7 +11961,7 @@
           "kepercayaan": 0
         }
       },
-      "SAGARA MAKMUR": {
+      "SAGARAMAKMUR": {
         "jumlah_kk": 4773,
         "pria": 7593,
         "wanita": 7210,
@@ -11980,7 +11980,7 @@
           "kepercayaan": 0
         }
       },
-      "SAMUDRA JAYA": {
+      "SAMUDRAJAYA": {
         "jumlah_kk": 2530,
         "pria": 4202,
         "wanita": 4110,
@@ -12018,7 +12018,7 @@
           "kepercayaan": 0
         }
       },
-      "SETIA ASIH": {
+      "SETIAASIH": {
         "jumlah_kk": 9978,
         "pria": 16905,
         "wanita": 16567,
@@ -12037,7 +12037,7 @@
           "kepercayaan": 0
         }
       },
-      "SETIA MULYA": {
+      "SETIAMULYA": {
         "jumlah_kk": 4073,
         "pria": 6795,
         "wanita": 6768,
@@ -12058,9 +12058,9 @@
       }
     }
   },
-  "KABUPATEN BOGOR": {
-    "BABAKAN MADANG": {
-      "BABAKAN MADANG": {
+  "KABUPATENBOGOR": {
+    "BABAKANMADANG": {
+      "BABAKANMADANG": {
         "jumlah_kk": 3206,
         "pria": 5334,
         "wanita": 5012,
@@ -12079,7 +12079,7 @@
           "kepercayaan": 0
         }
       },
-      "BOJONG KONENG": {
+      "BOJONGKONENG": {
         "jumlah_kk": 5359,
         "pria": 8865,
         "wanita": 8283,
@@ -12174,7 +12174,7 @@
           "kepercayaan": 0
         }
       },
-      "KARANG TENGAH": {
+      "KARANGTENGAH": {
         "jumlah_kk": 6106,
         "pria": 10280,
         "wanita": 9408,
@@ -12232,7 +12232,7 @@
         }
       }
     },
-    "BOJONG GEDE": {
+    "BOJONGGEDE": {
       "BOJONGBARU": {
         "jumlah_kk": 7970,
         "pria": 13310,
@@ -12444,7 +12444,7 @@
           "kepercayaan": 0
         }
       },
-      "CIHERANG PONDOK": {
+      "CIHERANGPONDOK": {
         "jumlah_kk": 4613,
         "pria": 7999,
         "wanita": 7634,
@@ -12482,7 +12482,7 @@
           "kepercayaan": 0
         }
       },
-      "CIMANDE HILIR": {
+      "CIMANDEHILIR": {
         "jumlah_kk": 2893,
         "pria": 5072,
         "wanita": 4824,
@@ -12520,7 +12520,7 @@
           "kepercayaan": 0
         }
       },
-      "LEMAH DUHUR": {
+      "LEMAHDUHUR": {
         "jumlah_kk": 4745,
         "pria": 8076,
         "wanita": 7619,
@@ -12577,7 +12577,7 @@
           "kepercayaan": 0
         }
       },
-      "PASIR MUNCANG": {
+      "PASIRMUNCANG": {
         "jumlah_kk": 2920,
         "pria": 5167,
         "wanita": 4761,
@@ -12904,7 +12904,7 @@
           "kepercayaan": 0
         }
       },
-      "CIAMPEA UDIK": {
+      "CIAMPEAUDIK": {
         "jumlah_kk": 2875,
         "pria": 4718,
         "wanita": 4402,
@@ -13077,7 +13077,7 @@
       }
     },
     "CIAWI": {
-      "BANJAR WANGI": {
+      "BANJARWANGI": {
         "jumlah_kk": 2776,
         "pria": 4740,
         "wanita": 4534,
@@ -13096,7 +13096,7 @@
           "kepercayaan": 0
         }
       },
-      "BANJAR WARU": {
+      "BANJARWARU": {
         "jumlah_kk": 6612,
         "pria": 10918,
         "wanita": 10608,
@@ -13172,7 +13172,7 @@
           "kepercayaan": 0
         }
       },
-      "BOJONG MURNI": {
+      "BOJONGMURNI": {
         "jumlah_kk": 1915,
         "pria": 3239,
         "wanita": 3054,
@@ -13229,7 +13229,7 @@
           "kepercayaan": 0
         }
       },
-      "PANDAN SARI": {
+      "PANDANSARI": {
         "jumlah_kk": 6740,
         "pria": 10988,
         "wanita": 10422,
@@ -13383,7 +13383,7 @@
           "kepercayaan": 2
         }
       },
-      "NANGGEWER MEKAR": {
+      "NANGGEWERMEKAR": {
         "jumlah_kk": 5200,
         "pria": 8435,
         "wanita": 8292,
@@ -13421,7 +13421,7 @@
           "kepercayaan": 1
         }
       },
-      "PABUARAN MEKAR": {
+      "PABUARANMEKAR": {
         "jumlah_kk": 8217,
         "pria": 12837,
         "wanita": 12932,
@@ -13459,7 +13459,7 @@
           "kepercayaan": 4
         }
       },
-      "PONDOK RAJEG": {
+      "PONDOKRAJEG": {
         "jumlah_kk": 5914,
         "pria": 9505,
         "wanita": 9477,
@@ -13537,7 +13537,7 @@
           "kepercayaan": 0
         }
       },
-      "CIARUTEUN ILIR": {
+      "CIARUTEUNILIR": {
         "jumlah_kk": 4447,
         "pria": 7313,
         "wanita": 6695,
@@ -13556,7 +13556,7 @@
           "kepercayaan": 0
         }
       },
-      "CIARUTEUN UDIK": {
+      "CIARUTEUNUDIK": {
         "jumlah_kk": 2726,
         "pria": 4572,
         "wanita": 4364,
@@ -13575,7 +13575,7 @@
           "kepercayaan": 0
         }
       },
-      "CIBATOK I": {
+      "CIBATOKI": {
         "jumlah_kk": 3295,
         "pria": 5243,
         "wanita": 4964,
@@ -13594,7 +13594,7 @@
           "kepercayaan": 0
         }
       },
-      "CIBATOK II": {
+      "CIBATOKII": {
         "jumlah_kk": 2805,
         "pria": 4658,
         "wanita": 4340,
@@ -13632,7 +13632,7 @@
           "kepercayaan": 0
         }
       },
-      "CIMANGGU I": {
+      "CIMANGGUI": {
         "jumlah_kk": 3656,
         "pria": 5801,
         "wanita": 5447,
@@ -13651,7 +13651,7 @@
           "kepercayaan": 0
         }
       },
-      "CIMANGGU II": {
+      "CIMANGGUII": {
         "jumlah_kk": 3131,
         "pria": 5127,
         "wanita": 4909,
@@ -13746,7 +13746,7 @@
           "kepercayaan": 0
         }
       },
-      "SITU ILIR": {
+      "SITUILIR": {
         "jumlah_kk": 3522,
         "pria": 6042,
         "wanita": 5520,
@@ -13765,7 +13765,7 @@
           "kepercayaan": 0
         }
       },
-      "SITU UDIK": {
+      "SITUUDIK": {
         "jumlah_kk": 4871,
         "pria": 8790,
         "wanita": 7912,
@@ -14341,7 +14341,7 @@
           "kepercayaan": 0
         }
       },
-      "TAJUR HALANG": {
+      "TAJURHALANG": {
         "jumlah_kk": 2470,
         "pria": 4140,
         "wanita": 3858,
@@ -14379,7 +14379,7 @@
           "kepercayaan": 0
         }
       },
-      "WARUNG MENTENG": {
+      "WARUNGMENTENG": {
         "jumlah_kk": 2754,
         "pria": 4640,
         "wanita": 4483,
@@ -14419,7 +14419,7 @@
           "kepercayaan": 0
         }
       },
-      "CILEUNGSI KIDUL": {
+      "CILEUNGSIKIDUL": {
         "jumlah_kk": 12120,
         "pria": 18967,
         "wanita": 18822,
@@ -14668,7 +14668,7 @@
           "kepercayaan": 0
         }
       },
-      "CIOMAS RAHAYU": {
+      "CIOMASRAHAYU": {
         "jumlah_kk": 4233,
         "pria": 6574,
         "wanita": 6705,
@@ -14687,7 +14687,7 @@
           "kepercayaan": 0
         }
       },
-      "KOTA BATU": {
+      "KOTABATU": {
         "jumlah_kk": 8051,
         "pria": 12779,
         "wanita": 12405,
@@ -14974,7 +14974,7 @@
           "kepercayaan": 0
         }
       },
-      "TUGU SELATAN": {
+      "TUGUSELATAN": {
         "jumlah_kk": 6556,
         "pria": 10834,
         "wanita": 10188,
@@ -14993,7 +14993,7 @@
           "kepercayaan": 0
         }
       },
-      "TUGU UTARA": {
+      "TUGUUTARA": {
         "jumlah_kk": 3836,
         "pria": 6345,
         "wanita": 5962,
@@ -15052,7 +15052,7 @@
           "kepercayaan": 0
         }
       },
-      "CIBEUTEUNG MUARA": {
+      "CIBEUTEUNGMUARA": {
         "jumlah_kk": 4370,
         "pria": 7716,
         "wanita": 7158,
@@ -15071,7 +15071,7 @@
           "kepercayaan": 0
         }
       },
-      "CIBEUTEUNG UDIK": {
+      "CIBEUTEUNGUDIK": {
         "jumlah_kk": 3881,
         "pria": 6579,
         "wanita": 6155,
@@ -15166,7 +15166,7 @@
           "kepercayaan": 0
         }
       },
-      "PARIGI MEKAR": {
+      "PARIGIMEKAR": {
         "jumlah_kk": 3355,
         "pria": 5120,
         "wanita": 4930,
@@ -15185,7 +15185,7 @@
           "kepercayaan": 0
         }
       },
-      "PUTAT NUTUG": {
+      "PUTATNUTUG": {
         "jumlah_kk": 5065,
         "pria": 8954,
         "wanita": 8202,
@@ -15263,7 +15263,7 @@
           "kepercayaan": 0
         }
       },
-      "KARANG ASEM BARAT": {
+      "KARANGASEMBARAT": {
         "jumlah_kk": 7415,
         "pria": 11697,
         "wanita": 11262,
@@ -15282,7 +15282,7 @@
           "kepercayaan": 0
         }
       },
-      "KARANG ASEM TIMUR": {
+      "KARANGASEMTIMUR": {
         "jumlah_kk": 3537,
         "pria": 5548,
         "wanita": 5389,
@@ -15320,7 +15320,7 @@
           "kepercayaan": 0
         }
       },
-      "PASIR MUKTI": {
+      "PASIRMUKTI": {
         "jumlah_kk": 4401,
         "pria": 7458,
         "wanita": 7076,
@@ -15665,8 +15665,8 @@
         }
       }
     },
-    "GUNUNG PUTRI": {
-      "BOJONG KULUR": {
+    "GUNUNGPUTRI": {
+      "BOJONGKULUR": {
         "jumlah_kk": 11979,
         "pria": 18707,
         "wanita": 19123,
@@ -15685,7 +15685,7 @@
           "kepercayaan": 5
         }
       },
-      "BOJONG NANGKA": {
+      "BOJONGNANGKA": {
         "jumlah_kk": 8090,
         "pria": 13193,
         "wanita": 12994,
@@ -15742,7 +15742,7 @@
           "kepercayaan": 0
         }
       },
-      "CIKEAS UDIK": {
+      "CIKEASUDIK": {
         "jumlah_kk": 9306,
         "pria": 13529,
         "wanita": 11724,
@@ -15761,7 +15761,7 @@
           "kepercayaan": 0
         }
       },
-      "GUNUNG PUTRI": {
+      "GUNUNGPUTRI": {
         "jumlah_kk": 6595,
         "pria": 10143,
         "wanita": 9907,
@@ -15818,7 +15818,7 @@
           "kepercayaan": 0
         }
       },
-      "TLAJUNG UDIK": {
+      "TLAJUNGUDIK": {
         "jumlah_kk": 14092,
         "pria": 22684,
         "wanita": 22321,
@@ -15857,7 +15857,7 @@
         }
       }
     },
-    "GUNUNG SINDUR": {
+    "GUNUNGSINDUR": {
       "CIBADUNG": {
         "jumlah_kk": 3392,
         "pria": 5467,
@@ -16145,7 +16145,7 @@
           "kepercayaan": 0
         }
       },
-      "JUGALA JAYA": {
+      "JUGALAJAYA": {
         "jumlah_kk": 1957,
         "pria": 3278,
         "wanita": 2993,
@@ -16624,7 +16624,7 @@
       }
     },
     "KEMANG": {
-      "ATANG SENJAYA": {
+      "ATANGSENJAYA": {
         "jumlah_kk": 1094,
         "pria": 1789,
         "wanita": 1789,
@@ -16738,7 +16738,7 @@
           "kepercayaan": 0
         }
       },
-      "PONDOK UDIK": {
+      "PONDOKUDIK": {
         "jumlah_kk": 3362,
         "pria": 5004,
         "wanita": 4885,
@@ -16757,7 +16757,7 @@
           "kepercayaan": 1
         }
       },
-      "SEMPLAK BARAT": {
+      "SEMPLAKBARAT": {
         "jumlah_kk": 2830,
         "pria": 4407,
         "wanita": 4357,
@@ -16797,7 +16797,7 @@
       }
     },
     "KLAPANUNGGAL": {
-      "BANTAR JATI": {
+      "BANTARJATI": {
         "jumlah_kk": 3078,
         "pria": 4753,
         "wanita": 4614,
@@ -16854,7 +16854,7 @@
           "kepercayaan": 0
         }
       },
-      "KEMBANG KUNING": {
+      "KEMBANGKUNING": {
         "jumlah_kk": 5605,
         "pria": 9038,
         "wanita": 8799,
@@ -16989,7 +16989,7 @@
           "kepercayaan": 0
         }
       },
-      "CIBEBER I": {
+      "CIBEBERI": {
         "jumlah_kk": 3716,
         "pria": 6351,
         "wanita": 5868,
@@ -17008,7 +17008,7 @@
           "kepercayaan": 0
         }
       },
-      "CIBEBER II": {
+      "CIBEBERII": {
         "jumlah_kk": 3493,
         "pria": 5873,
         "wanita": 5380,
@@ -17181,7 +17181,7 @@
       }
     },
     "LEUWISADENG": {
-      "BABAKAN SADENG": {
+      "BABAKANSADENG": {
         "jumlah_kk": 3104,
         "pria": 5339,
         "wanita": 4721,
@@ -17200,7 +17200,7 @@
           "kepercayaan": 0
         }
       },
-      "KALONG I": {
+      "KALONGI": {
         "jumlah_kk": 1754,
         "pria": 2991,
         "wanita": 2694,
@@ -17219,7 +17219,7 @@
           "kepercayaan": 0
         }
       },
-      "KALONG II": {
+      "KALONGII": {
         "jumlah_kk": 2334,
         "pria": 3853,
         "wanita": 3497,
@@ -17276,7 +17276,7 @@
           "kepercayaan": 0
         }
       },
-      "SADENG KOLOT": {
+      "SADENGKOLOT": {
         "jumlah_kk": 4473,
         "pria": 7680,
         "wanita": 6946,
@@ -17354,7 +17354,7 @@
           "kepercayaan": 0
         }
       },
-      "CIPAYUNG GIRANG": {
+      "CIPAYUNGGIRANG": {
         "jumlah_kk": 3570,
         "pria": 5878,
         "wanita": 5426,
@@ -17430,7 +17430,7 @@
           "kepercayaan": 0
         }
       },
-      "PASIR ANGIN": {
+      "PASIRANGIN": {
         "jumlah_kk": 3591,
         "pria": 6336,
         "wanita": 5744,
@@ -17584,7 +17584,7 @@
           "kepercayaan": 0
         }
       },
-      "BATU TULIS": {
+      "BATUTULIS": {
         "jumlah_kk": 2522,
         "pria": 4210,
         "wanita": 3958,
@@ -17833,7 +17833,7 @@
           "kepercayaan": 0
         }
       },
-      "CIBITUNG KULON": {
+      "CIBITUNGKULON": {
         "jumlah_kk": 2346,
         "pria": 4098,
         "wanita": 3794,
@@ -17909,7 +17909,7 @@
           "kepercayaan": 0
         }
       },
-      "GUNUNG PICUNG": {
+      "GUNUNGPICUNG": {
         "jumlah_kk": 4927,
         "pria": 8168,
         "wanita": 7766,
@@ -17928,7 +17928,7 @@
           "kepercayaan": 0
         }
       },
-      "GUNUNGBUNDER I": {
+      "GUNUNGBUNDERI": {
         "jumlah_kk": 3213,
         "pria": 5408,
         "wanita": 5024,
@@ -17947,7 +17947,7 @@
           "kepercayaan": 0
         }
       },
-      "GUNUNGBUNDER II": {
+      "GUNUNGBUNDERII": {
         "jumlah_kk": 3454,
         "pria": 5490,
         "wanita": 5245,
@@ -18235,7 +18235,7 @@
         }
       }
     },
-    "PARUNG PANJANG": {
+    "PARUNGPANJANG": {
       "CIBUNAR": {
         "jumlah_kk": 4716,
         "pria": 7777,
@@ -18446,7 +18446,7 @@
         }
       }
     },
-    "RANCA BUNGUR": {
+    "RANCABUNGUR": {
       "BANTARJAYA": {
         "jumlah_kk": 4005,
         "pria": 6402,
@@ -18983,7 +18983,7 @@
           "kepercayaan": 0
         }
       },
-      "PASIR MADANG": {
+      "PASIRMADANG": {
         "jumlah_kk": 1796,
         "pria": 3047,
         "wanita": 2773,
@@ -19329,7 +19329,7 @@
           "kepercayaan": 0
         }
       },
-      "CILEBUT BARAT": {
+      "CILEBUTBARAT": {
         "jumlah_kk": 11289,
         "pria": 18477,
         "wanita": 18176,
@@ -19348,7 +19348,7 @@
           "kepercayaan": 0
         }
       },
-      "CILEBUT TIMUR": {
+      "CILEBUTTIMUR": {
         "jumlah_kk": 6511,
         "pria": 10193,
         "wanita": 10187,
@@ -19424,7 +19424,7 @@
           "kepercayaan": 0
         }
       },
-      "PASIR JAMBU": {
+      "PASIRJAMBU": {
         "jumlah_kk": 5414,
         "pria": 8847,
         "wanita": 8597,
@@ -19559,7 +19559,7 @@
           "kepercayaan": 0
         }
       },
-      "SASAK PANJANG": {
+      "SASAKPANJANG": {
         "jumlah_kk": 10717,
         "pria": 17068,
         "wanita": 16871,
@@ -19848,7 +19848,7 @@
           "kepercayaan": 0
         }
       },
-      "PASIR TANJUNG": {
+      "PASIRTANJUNG": {
         "jumlah_kk": 1612,
         "pria": 2347,
         "wanita": 2322,
@@ -20156,7 +20156,7 @@
       }
     },
     "TENJOLAYA": {
-      "CIBITUNG TENGAH": {
+      "CIBITUNGTENGAH": {
         "jumlah_kk": 3990,
         "pria": 6552,
         "wanita": 6248,
@@ -20194,7 +20194,7 @@
           "kepercayaan": 0
         }
       },
-      "GUNUNG MALANG": {
+      "GUNUNGMALANG": {
         "jumlah_kk": 2851,
         "pria": 4194,
         "wanita": 4067,
@@ -20213,7 +20213,7 @@
           "kepercayaan": 0
         }
       },
-      "GUNUNG MULYA": {
+      "GUNUNGMULYA": {
         "jumlah_kk": 2694,
         "pria": 4246,
         "wanita": 3986,
@@ -20251,7 +20251,7 @@
           "kepercayaan": 0
         }
       },
-      "TAPOS I": {
+      "TAPOSI": {
         "jumlah_kk": 3391,
         "pria": 5539,
         "wanita": 5270,
@@ -20270,7 +20270,7 @@
           "kepercayaan": 0
         }
       },
-      "TAPOS II": {
+      "TAPOSII": {
         "jumlah_kk": 2762,
         "pria": 4620,
         "wanita": 4364,
@@ -20291,7 +20291,7 @@
       }
     }
   },
-  "KABUPATEN CIAMIS": {
+  "KABUPATENCIAMIS": {
     "BANJARANYAR": {
       "BANJARANYAR": {
         "jumlah_kk": 1815,
@@ -20983,7 +20983,7 @@
           "kepercayaan": 0
         }
       },
-      "IMBANAGARA RAYA": {
+      "IMBANAGARARAYA": {
         "jumlah_kk": 2570,
         "pria": 3697,
         "wanita": 3702,
@@ -25382,7 +25382,7 @@
       }
     }
   },
-  "KABUPATEN CIANJUR": {
+  "KABUPATENCIANJUR": {
     "AGRABINTA": {
       "BOJONGKASO": {
         "jumlah_kk": 1250,
@@ -25536,7 +25536,7 @@
           "kepercayaan": 0
         }
       },
-      "TANJUNG SARI": {
+      "TANJUNGSARI": {
         "jumlah_kk": 1557,
         "pria": 2153,
         "wanita": 2108,
@@ -29007,7 +29007,7 @@
           "kepercayaan": 0
         }
       },
-      "MEKARWANGI/SUKATANI": {
+      "MEKARWANGISUKATANI": {
         "jumlah_kk": 2852,
         "pria": 4345,
         "wanita": 4026,
@@ -32288,7 +32288,7 @@
       }
     }
   },
-  "KABUPATEN CIREBON": {
+  "KABUPATENCIREBON": {
     "ARJAWINANGUN": {
       "ARJAWINANGUN": {
         "jumlah_kk": 4086,
@@ -32366,7 +32366,7 @@
           "kepercayaan": 0
         }
       },
-      "JUNGJANG WETAN": {
+      "JUNGJANGWETAN": {
         "jumlah_kk": 2226,
         "pria": 3119,
         "wanita": 2976,
@@ -32480,7 +32480,7 @@
           "kepercayaan": 0
         }
       },
-      "TEGALGUBUG LOR": {
+      "TEGALGUBUGLOR": {
         "jumlah_kk": 4050,
         "pria": 6590,
         "wanita": 6317,
@@ -32539,7 +32539,7 @@
           "kepercayaan": 0
         }
       },
-      "JAPURA KIDUL": {
+      "JAPURAKIDUL": {
         "jumlah_kk": 3067,
         "pria": 4697,
         "wanita": 4504,
@@ -32596,7 +32596,7 @@
           "kepercayaan": 0
         }
       },
-      "KANCI KULON": {
+      "KANCIKULON": {
         "jumlah_kk": 2453,
         "pria": 3851,
         "wanita": 3669,
@@ -32634,7 +32634,7 @@
           "kepercayaan": 0
         }
       },
-      "MERTAPADA KULON": {
+      "MERTAPADAKULON": {
         "jumlah_kk": 1983,
         "pria": 3192,
         "wanita": 2991,
@@ -32653,7 +32653,7 @@
           "kepercayaan": 0
         }
       },
-      "MERTAPADA WETAN": {
+      "MERTAPADAWETAN": {
         "jumlah_kk": 3163,
         "pria": 5017,
         "wanita": 4757,
@@ -32731,7 +32731,7 @@
           "kepercayaan": 0
         }
       },
-      "BABAKAN GEBANG": {
+      "BABAKANGEBANG": {
         "jumlah_kk": 3582,
         "pria": 5110,
         "wanita": 5069,
@@ -32807,7 +32807,7 @@
           "kepercayaan": 0
         }
       },
-      "GEMBONGAN MEKAR": {
+      "GEMBONGANMEKAR": {
         "jumlah_kk": 2224,
         "pria": 3213,
         "wanita": 3111,
@@ -32902,7 +32902,7 @@
           "kepercayaan": 0
         }
       },
-      "SERANG KULON": {
+      "SERANGKULON": {
         "jumlah_kk": 1436,
         "pria": 2037,
         "wanita": 2031,
@@ -32921,7 +32921,7 @@
           "kepercayaan": 0
         }
       },
-      "SERANG WETAN": {
+      "SERANGWETAN": {
         "jumlah_kk": 1565,
         "pria": 2142,
         "wanita": 2180,
@@ -32940,7 +32940,7 @@
           "kepercayaan": 0
         }
       },
-      "SUMBER KIDUL": {
+      "SUMBERKIDUL": {
         "jumlah_kk": 1860,
         "pria": 2455,
         "wanita": 2488,
@@ -32959,7 +32959,7 @@
           "kepercayaan": 0
         }
       },
-      "SUMBER LOR": {
+      "SUMBERLOR": {
         "jumlah_kk": 1885,
         "pria": 2580,
         "wanita": 2522,
@@ -33191,7 +33191,7 @@
           "kepercayaan": 0
         }
       },
-      "CILEDUG KULON": {
+      "CILEDUGKULON": {
         "jumlah_kk": 1611,
         "pria": 2114,
         "wanita": 2147,
@@ -33210,7 +33210,7 @@
           "kepercayaan": 0
         }
       },
-      "CILEDUG LOR": {
+      "CILEDUGLOR": {
         "jumlah_kk": 1347,
         "pria": 1820,
         "wanita": 1850,
@@ -33229,7 +33229,7 @@
           "kepercayaan": 0
         }
       },
-      "CILEDUG TENGAH": {
+      "CILEDUGTENGAH": {
         "jumlah_kk": 1801,
         "pria": 2417,
         "wanita": 2357,
@@ -33248,7 +33248,7 @@
           "kepercayaan": 0
         }
       },
-      "CILEDUG WETAN": {
+      "CILEDUGWETAN": {
         "jumlah_kk": 1493,
         "pria": 2065,
         "wanita": 1953,
@@ -33305,7 +33305,7 @@
           "kepercayaan": 0
         }
       },
-      "JATISEENG KIDUL": {
+      "JATISEENGKIDUL": {
         "jumlah_kk": 3337,
         "pria": 4817,
         "wanita": 4597,
@@ -33459,7 +33459,7 @@
           "kepercayaan": 0
         }
       },
-      "GINTUNG KIDUL": {
+      "GINTUNGKIDUL": {
         "jumlah_kk": 2475,
         "pria": 3551,
         "wanita": 3553,
@@ -33478,7 +33478,7 @@
           "kepercayaan": 0
         }
       },
-      "GINTUNG TENGAH": {
+      "GINTUNGTENGAH": {
         "jumlah_kk": 1053,
         "pria": 1454,
         "wanita": 1465,
@@ -33594,7 +33594,7 @@
           "kepercayaan": 0
         }
       },
-      "KASUGENGAN KIDUL": {
+      "KASUGENGANKIDUL": {
         "jumlah_kk": 2641,
         "pria": 4024,
         "wanita": 3963,
@@ -33613,7 +33613,7 @@
           "kepercayaan": 0
         }
       },
-      "KASUGENGAN LOR": {
+      "KASUGENGANLOR": {
         "jumlah_kk": 2946,
         "pria": 4313,
         "wanita": 4350,
@@ -33900,7 +33900,7 @@
           "kepercayaan": 0
         }
       },
-      "KEDONGDONG KIDUL": {
+      "KEDONGDONGKIDUL": {
         "jumlah_kk": 893,
         "pria": 1317,
         "wanita": 1327,
@@ -33997,7 +33997,7 @@
       }
     },
     "GEBANG": {
-      "DOMPYONG KULON": {
+      "DOMPYONGKULON": {
         "jumlah_kk": 1623,
         "pria": 2305,
         "wanita": 2341,
@@ -34016,7 +34016,7 @@
           "kepercayaan": 0
         }
       },
-      "DOMPYONG WETAN": {
+      "DOMPYONGWETAN": {
         "jumlah_kk": 1782,
         "pria": 2516,
         "wanita": 2498,
@@ -34073,7 +34073,7 @@
           "kepercayaan": 0
         }
       },
-      "GEBANG ILIR": {
+      "GEBANGILIR": {
         "jumlah_kk": 2184,
         "pria": 3167,
         "wanita": 3157,
@@ -34092,7 +34092,7 @@
           "kepercayaan": 0
         }
       },
-      "GEBANG KULON": {
+      "GEBANGKULON": {
         "jumlah_kk": 2847,
         "pria": 4283,
         "wanita": 4285,
@@ -34111,7 +34111,7 @@
           "kepercayaan": 0
         }
       },
-      "GEBANG MEKAR": {
+      "GEBANGMEKAR": {
         "jumlah_kk": 2766,
         "pria": 4223,
         "wanita": 4054,
@@ -34130,7 +34130,7 @@
           "kepercayaan": 0
         }
       },
-      "GEBANG UDIK": {
+      "GEBANGUDIK": {
         "jumlah_kk": 2712,
         "pria": 4009,
         "wanita": 3888,
@@ -34246,7 +34246,7 @@
       }
     },
     "GEGESIK": {
-      "BAYALANGU KIDUL": {
+      "BAYALANGUKIDUL": {
         "jumlah_kk": 2684,
         "pria": 3640,
         "wanita": 3657,
@@ -34265,7 +34265,7 @@
           "kepercayaan": 0
         }
       },
-      "BAYALANGU LOR": {
+      "BAYALANGULOR": {
         "jumlah_kk": 2368,
         "pria": 3251,
         "wanita": 3200,
@@ -34284,7 +34284,7 @@
           "kepercayaan": 0
         }
       },
-      "GEGESIK KIDUL": {
+      "GEGESIKKIDUL": {
         "jumlah_kk": 2195,
         "pria": 2829,
         "wanita": 2824,
@@ -34303,7 +34303,7 @@
           "kepercayaan": 0
         }
       },
-      "GEGESIK KULON": {
+      "GEGESIKKULON": {
         "jumlah_kk": 2309,
         "pria": 3050,
         "wanita": 3066,
@@ -34322,7 +34322,7 @@
           "kepercayaan": 0
         }
       },
-      "GEGESIK LOR": {
+      "GEGESIKLOR": {
         "jumlah_kk": 1445,
         "pria": 1990,
         "wanita": 1894,
@@ -34341,7 +34341,7 @@
           "kepercayaan": 0
         }
       },
-      "GEGESIK WETAN": {
+      "GEGESIKWETAN": {
         "jumlah_kk": 1439,
         "pria": 1994,
         "wanita": 1928,
@@ -34360,7 +34360,7 @@
           "kepercayaan": 0
         }
       },
-      "JAGAPURA KIDUL": {
+      "JAGAPURAKIDUL": {
         "jumlah_kk": 2518,
         "pria": 3736,
         "wanita": 3631,
@@ -34379,7 +34379,7 @@
           "kepercayaan": 0
         }
       },
-      "JAGAPURA KULON": {
+      "JAGAPURAKULON": {
         "jumlah_kk": 2525,
         "pria": 3826,
         "wanita": 3546,
@@ -34398,7 +34398,7 @@
           "kepercayaan": 0
         }
       },
-      "JAGAPURA LOR": {
+      "JAGAPURALOR": {
         "jumlah_kk": 2555,
         "pria": 3883,
         "wanita": 3687,
@@ -34417,7 +34417,7 @@
           "kepercayaan": 0
         }
       },
-      "JAGAPURA WETAN": {
+      "JAGAPURAWETAN": {
         "jumlah_kk": 2387,
         "pria": 3317,
         "wanita": 3303,
@@ -34590,7 +34590,7 @@
           "kepercayaan": 0
         }
       },
-      "PALIMANAN BARAT": {
+      "PALIMANANBARAT": {
         "jumlah_kk": 4726,
         "pria": 7019,
         "wanita": 6749,
@@ -34668,7 +34668,7 @@
           "kepercayaan": 0
         }
       },
-      "GUMULUNG LEBAK": {
+      "GUMULUNGLEBAK": {
         "jumlah_kk": 3363,
         "pria": 5511,
         "wanita": 5053,
@@ -34687,7 +34687,7 @@
           "kepercayaan": 0
         }
       },
-      "GUMULUNG TONGGOH": {
+      "GUMULUNGTONGGOH": {
         "jumlah_kk": 3325,
         "pria": 5214,
         "wanita": 4880,
@@ -34744,7 +34744,7 @@
           "kepercayaan": 0
         }
       },
-      "KAMARANG LEBAK": {
+      "KAMARANGLEBAK": {
         "jumlah_kk": 801,
         "pria": 1210,
         "wanita": 1183,
@@ -34763,7 +34763,7 @@
           "kepercayaan": 0
         }
       },
-      "LEBAK MEKAR": {
+      "LEBAKMEKAR": {
         "jumlah_kk": 3344,
         "pria": 5420,
         "wanita": 4942,
@@ -34801,7 +34801,7 @@
           "kepercayaan": 0
         }
       },
-      "SINDANG KEMPENG": {
+      "SINDANGKEMPENG": {
         "jumlah_kk": 1710,
         "pria": 2707,
         "wanita": 2571,
@@ -34821,7 +34821,7 @@
         }
       }
     },
-    "GUNUNG JATI": {
+    "GUNUNGJATI": {
       "ADIDHARMA": {
         "jumlah_kk": 1975,
         "pria": 2792,
@@ -35109,7 +35109,7 @@
       }
     },
     "JAMBLANG": {
-      "BAKUNG KIDUL": {
+      "BAKUNGKIDUL": {
         "jumlah_kk": 2299,
         "pria": 3179,
         "wanita": 3196,
@@ -35128,7 +35128,7 @@
           "kepercayaan": 0
         }
       },
-      "BAKUNG LOR": {
+      "BAKUNGLOR": {
         "jumlah_kk": 2461,
         "pria": 3515,
         "wanita": 3307,
@@ -35147,7 +35147,7 @@
           "kepercayaan": 0
         }
       },
-      "BOJONG LOR": {
+      "BOJONGLOR": {
         "jumlah_kk": 1638,
         "pria": 2402,
         "wanita": 2335,
@@ -35166,7 +35166,7 @@
           "kepercayaan": 0
         }
       },
-      "BOJONG WETAN": {
+      "BOJONGWETAN": {
         "jumlah_kk": 1745,
         "pria": 2551,
         "wanita": 2513,
@@ -35263,7 +35263,7 @@
       }
     },
     "KALIWEDI": {
-      "GUWA KIDUL": {
+      "GUWAKIDUL": {
         "jumlah_kk": 2164,
         "pria": 3082,
         "wanita": 2976,
@@ -35282,7 +35282,7 @@
           "kepercayaan": 0
         }
       },
-      "GUWA LOR": {
+      "GUWALOR": {
         "jumlah_kk": 2434,
         "pria": 3387,
         "wanita": 3371,
@@ -35320,7 +35320,7 @@
           "kepercayaan": 0
         }
       },
-      "KALIWEDI KIDUL": {
+      "KALIWEDIKIDUL": {
         "jumlah_kk": 1670,
         "pria": 2467,
         "wanita": 2377,
@@ -35339,7 +35339,7 @@
           "kepercayaan": 0
         }
       },
-      "KALIWEDI LOR": {
+      "KALIWEDILOR": {
         "jumlah_kk": 1776,
         "pria": 2546,
         "wanita": 2481,
@@ -35358,7 +35358,7 @@
           "kepercayaan": 0
         }
       },
-      "PRAJAWINANGUN KULON": {
+      "PRAJAWINANGUNKULON": {
         "jumlah_kk": 1263,
         "pria": 1697,
         "wanita": 1668,
@@ -35377,7 +35377,7 @@
           "kepercayaan": 0
         }
       },
-      "PRAJAWINANGUN WETAN": {
+      "PRAJAWINANGUNWETAN": {
         "jumlah_kk": 1883,
         "pria": 2266,
         "wanita": 2311,
@@ -35455,7 +35455,7 @@
           "kepercayaan": 0
         }
       },
-      "BUNGKO LOR": {
+      "BUNGKOLOR": {
         "jumlah_kk": 1632,
         "pria": 2593,
         "wanita": 2446,
@@ -35569,7 +35569,7 @@
           "kepercayaan": 0
         }
       },
-      "PEGAGAN KIDUL": {
+      "PEGAGANKIDUL": {
         "jumlah_kk": 2999,
         "pria": 4529,
         "wanita": 4436,
@@ -35588,7 +35588,7 @@
           "kepercayaan": 0
         }
       },
-      "PEGAGAN LOR": {
+      "PEGAGANLOR": {
         "jumlah_kk": 3203,
         "pria": 4849,
         "wanita": 4733,
@@ -36128,7 +36128,7 @@
           "kepercayaan": 0
         }
       },
-      "JEMARAS KIDUL": {
+      "JEMARASKIDUL": {
         "jumlah_kk": 2014,
         "pria": 3100,
         "wanita": 2917,
@@ -36147,7 +36147,7 @@
           "kepercayaan": 0
         }
       },
-      "JEMARAS LOR": {
+      "JEMARASLOR": {
         "jumlah_kk": 2366,
         "pria": 3622,
         "wanita": 3552,
@@ -36301,7 +36301,7 @@
           "kepercayaan": 0
         }
       },
-      "CIPEUJEUH KULON": {
+      "CIPEUJEUHKULON": {
         "jumlah_kk": 1966,
         "pria": 3140,
         "wanita": 3041,
@@ -36320,7 +36320,7 @@
           "kepercayaan": 0
         }
       },
-      "CIPEUJEUH WETAN": {
+      "CIPEUJEUHWETAN": {
         "jumlah_kk": 3072,
         "pria": 4526,
         "wanita": 4440,
@@ -36358,7 +36358,7 @@
           "kepercayaan": 0
         }
       },
-      "LEMAHABANG KULON": {
+      "LEMAHABANGKULON": {
         "jumlah_kk": 1775,
         "pria": 2417,
         "wanita": 2410,
@@ -36472,7 +36472,7 @@
           "kepercayaan": 0
         }
       },
-      "TUK KARANGSUWUNG": {
+      "TUKKARANGSUWUNG": {
         "jumlah_kk": 1100,
         "pria": 1714,
         "wanita": 1641,
@@ -36607,7 +36607,7 @@
           "kepercayaan": 0
         }
       },
-      "LOSARI KIDUL": {
+      "LOSARIKIDUL": {
         "jumlah_kk": 1322,
         "pria": 1896,
         "wanita": 1783,
@@ -36626,7 +36626,7 @@
           "kepercayaan": 0
         }
       },
-      "LOSARI LOR": {
+      "LOSARILOR": {
         "jumlah_kk": 2342,
         "pria": 3288,
         "wanita": 3226,
@@ -36780,7 +36780,7 @@
           "kepercayaan": 0
         }
       },
-      "MUNDU MESIGIT": {
+      "MUNDUMESIGIT": {
         "jumlah_kk": 1681,
         "pria": 2658,
         "wanita": 2531,
@@ -36799,7 +36799,7 @@
           "kepercayaan": 0
         }
       },
-      "MUNDU PESISIR": {
+      "MUNDUPESISIR": {
         "jumlah_kk": 2306,
         "pria": 3578,
         "wanita": 3632,
@@ -36934,7 +36934,7 @@
       }
     },
     "PABEDILAN": {
-      "BABAKAN LOSARI": {
+      "BABAKANLOSARI": {
         "jumlah_kk": 1565,
         "pria": 2137,
         "wanita": 2087,
@@ -36953,7 +36953,7 @@
           "kepercayaan": 0
         }
       },
-      "BABAKAN LOSARI LOR": {
+      "BABAKANLOSARILOR": {
         "jumlah_kk": 1363,
         "pria": 1934,
         "wanita": 1832,
@@ -37029,7 +37029,7 @@
           "kepercayaan": 0
         }
       },
-      "PABEDILAN KALER": {
+      "PABEDILANKALER": {
         "jumlah_kk": 1567,
         "pria": 2130,
         "wanita": 2116,
@@ -37048,7 +37048,7 @@
           "kepercayaan": 1
         }
       },
-      "PABEDILAN KIDUL": {
+      "PABEDILANKIDUL": {
         "jumlah_kk": 2280,
         "pria": 3082,
         "wanita": 2963,
@@ -37067,7 +37067,7 @@
           "kepercayaan": 0
         }
       },
-      "PABEDILAN KULON": {
+      "PABEDILANKULON": {
         "jumlah_kk": 1779,
         "pria": 2490,
         "wanita": 2420,
@@ -37086,7 +37086,7 @@
           "kepercayaan": 0
         }
       },
-      "PABEDILAN WETAN": {
+      "PABEDILANWETAN": {
         "jumlah_kk": 1681,
         "pria": 2166,
         "wanita": 2224,
@@ -37202,7 +37202,7 @@
           "kepercayaan": 0
         }
       },
-      "HULUBANTENG LOR": {
+      "HULUBANTENGLOR": {
         "jumlah_kk": 1460,
         "pria": 2014,
         "wanita": 2063,
@@ -37240,7 +37240,7 @@
           "kepercayaan": 0
         }
       },
-      "PABUARAN KIDUL": {
+      "PABUARANKIDUL": {
         "jumlah_kk": 2069,
         "pria": 3049,
         "wanita": 3009,
@@ -37259,7 +37259,7 @@
           "kepercayaan": 0
         }
       },
-      "PABUARAN LOR": {
+      "PABUARANLOR": {
         "jumlah_kk": 3142,
         "pria": 4636,
         "wanita": 4408,
@@ -37278,7 +37278,7 @@
           "kepercayaan": 0
         }
       },
-      "PABUARAN WETAN": {
+      "PABUARANWETAN": {
         "jumlah_kk": 2210,
         "pria": 3059,
         "wanita": 2935,
@@ -37451,7 +37451,7 @@
           "kepercayaan": 0
         }
       },
-      "PALIMANAN TIMUR": {
+      "PALIMANANTIMUR": {
         "jumlah_kk": 2407,
         "pria": 3374,
         "wanita": 3476,
@@ -37643,7 +37643,7 @@
           "kepercayaan": 0
         }
       },
-      "JAPURA LOR": {
+      "JAPURALOR": {
         "jumlah_kk": 2990,
         "pria": 4755,
         "wanita": 4559,
@@ -37835,7 +37835,7 @@
           "kepercayaan": 0
         }
       },
-      "PANGURANGAN KULON": {
+      "PANGURANGANKULON": {
         "jumlah_kk": 2551,
         "pria": 3606,
         "wanita": 3645,
@@ -37854,7 +37854,7 @@
           "kepercayaan": 0
         }
       },
-      "PANGURANGAN LOR": {
+      "PANGURANGANLOR": {
         "jumlah_kk": 2257,
         "pria": 3093,
         "wanita": 3094,
@@ -37873,7 +37873,7 @@
           "kepercayaan": 0
         }
       },
-      "PANGURANGAN WETAN": {
+      "PANGURANGANWETAN": {
         "jumlah_kk": 2699,
         "pria": 3863,
         "wanita": 3709,
@@ -37951,7 +37951,7 @@
           "kepercayaan": 0
         }
       },
-      "CILENGKRANG GIRANG": {
+      "CILENGKRANGGIRANG": {
         "jumlah_kk": 1215,
         "pria": 1656,
         "wanita": 1689,
@@ -38162,7 +38162,7 @@
           "kepercayaan": 0
         }
       },
-      "TRUSMI KULON": {
+      "TRUSMIKULON": {
         "jumlah_kk": 1236,
         "pria": 1858,
         "wanita": 1789,
@@ -38181,7 +38181,7 @@
           "kepercayaan": 0
         }
       },
-      "TRUSMI WETAN": {
+      "TRUSMIWETAN": {
         "jumlah_kk": 1037,
         "pria": 1552,
         "wanita": 1483,
@@ -38221,7 +38221,7 @@
       }
     },
     "PLUMBON": {
-      "BODE LOR": {
+      "BODELOR": {
         "jumlah_kk": 2051,
         "pria": 3246,
         "wanita": 3004,
@@ -38584,7 +38584,7 @@
           "kepercayaan": 0
         }
       },
-      "PANONGAN LOR": {
+      "PANONGANLOR": {
         "jumlah_kk": 1606,
         "pria": 2561,
         "wanita": 2471,
@@ -38622,7 +38622,7 @@
           "kepercayaan": 0
         }
       },
-      "SEDONG KIDUL": {
+      "SEDONGKIDUL": {
         "jumlah_kk": 1719,
         "pria": 2475,
         "wanita": 2421,
@@ -38641,7 +38641,7 @@
           "kepercayaan": 0
         }
       },
-      "SEDONG LOR": {
+      "SEDONGLOR": {
         "jumlah_kk": 1446,
         "pria": 2088,
         "wanita": 2076,
@@ -39082,7 +39082,7 @@
           "kepercayaan": 0
         }
       },
-      "SURANENGGALA KIDUL": {
+      "SURANENGGALAKIDUL": {
         "jumlah_kk": 1864,
         "pria": 2663,
         "wanita": 2639,
@@ -39101,7 +39101,7 @@
           "kepercayaan": 0
         }
       },
-      "SURANENGGALA KULON": {
+      "SURANENGGALAKULON": {
         "jumlah_kk": 2072,
         "pria": 3056,
         "wanita": 2946,
@@ -39120,7 +39120,7 @@
           "kepercayaan": 0
         }
       },
-      "SURANENGGALA LOR": {
+      "SURANENGGALALOR": {
         "jumlah_kk": 1713,
         "pria": 2485,
         "wanita": 2457,
@@ -39141,7 +39141,7 @@
       }
     },
     "SUSUKAN": {
-      "BOJONG KULON": {
+      "BOJONGKULON": {
         "jumlah_kk": 3325,
         "pria": 4906,
         "wanita": 4732,
@@ -39179,7 +39179,7 @@
           "kepercayaan": 0
         }
       },
-      "GINTUNG LOR": {
+      "GINTUNGLOR": {
         "jumlah_kk": 2765,
         "pria": 4053,
         "wanita": 3878,
@@ -39274,7 +39274,7 @@
           "kepercayaan": 0
         }
       },
-      "LUWUNG KENCANA": {
+      "LUWUNGKENCANA": {
         "jumlah_kk": 2092,
         "pria": 2765,
         "wanita": 2717,
@@ -39370,7 +39370,7 @@
         }
       }
     },
-    "SUSUKAN LEBAK": {
+    "SUSUKANLEBAK": {
       "CIAWIASIH": {
         "jumlah_kk": 1810,
         "pria": 2684,
@@ -39428,7 +39428,7 @@
           "kepercayaan": 0
         }
       },
-      "CURUG WETAN": {
+      "CURUGWETAN": {
         "jumlah_kk": 1364,
         "pria": 1978,
         "wanita": 1944,
@@ -39466,7 +39466,7 @@
           "kepercayaan": 0
         }
       },
-      "KALIGAWE WETAN": {
+      "KALIGAWEWETAN": {
         "jumlah_kk": 992,
         "pria": 1407,
         "wanita": 1383,
@@ -39542,7 +39542,7 @@
           "kepercayaan": 0
         }
       },
-      "SUSUKAN AGUNG": {
+      "SUSUKANAGUNG": {
         "jumlah_kk": 1242,
         "pria": 1871,
         "wanita": 1815,
@@ -39561,7 +39561,7 @@
           "kepercayaan": 0
         }
       },
-      "SUSUKAN LEBAK": {
+      "SUSUKANLEBAK": {
         "jumlah_kk": 990,
         "pria": 1483,
         "wanita": 1414,
@@ -39580,7 +39580,7 @@
           "kepercayaan": 0
         }
       },
-      "SUSUKAN TONGGOH": {
+      "SUSUKANTONGGOH": {
         "jumlah_kk": 758,
         "pria": 1163,
         "wanita": 1066,
@@ -39658,7 +39658,7 @@
           "kepercayaan": 0
         }
       },
-      "CIREBON GIRANG": {
+      "CIREBONGIRANG": {
         "jumlah_kk": 3662,
         "pria": 5807,
         "wanita": 5643,
@@ -39791,7 +39791,7 @@
           "kepercayaan": 0
         }
       },
-      "WANASABA KIDUL": {
+      "WANASABAKIDUL": {
         "jumlah_kk": 2427,
         "pria": 3971,
         "wanita": 3843,
@@ -39810,7 +39810,7 @@
           "kepercayaan": 0
         }
       },
-      "WANASABA LOR": {
+      "WANASABALOR": {
         "jumlah_kk": 1633,
         "pria": 2417,
         "wanita": 2469,
@@ -39830,7 +39830,7 @@
         }
       }
     },
-    "TENGAH TANI": {
+    "TENGAHTANI": {
       "ASTAPADA": {
         "jumlah_kk": 2238,
         "pria": 3625,
@@ -40042,7 +40042,7 @@
           "kepercayaan": 0
         }
       },
-      "CIKULAK KIDUL": {
+      "CIKULAKKIDUL": {
         "jumlah_kk": 2535,
         "pria": 3903,
         "wanita": 3647,
@@ -40156,7 +40156,7 @@
           "kepercayaan": 0
         }
       },
-      "WALED ASEM": {
+      "WALEDASEM": {
         "jumlah_kk": 965,
         "pria": 1470,
         "wanita": 1362,
@@ -40175,7 +40175,7 @@
           "kepercayaan": 0
         }
       },
-      "WALED DESA": {
+      "WALEDDESA": {
         "jumlah_kk": 1401,
         "pria": 2027,
         "wanita": 1989,
@@ -40194,7 +40194,7 @@
           "kepercayaan": 0
         }
       },
-      "WALED KOTA": {
+      "WALEDKOTA": {
         "jumlah_kk": 1785,
         "pria": 2545,
         "wanita": 2528,
@@ -40253,7 +40253,7 @@
           "kepercayaan": 0
         }
       },
-      "MEGU CILIK": {
+      "MEGUCILIK": {
         "jumlah_kk": 3422,
         "pria": 5484,
         "wanita": 5229,
@@ -40272,7 +40272,7 @@
           "kepercayaan": 0
         }
       },
-      "MEGU GEDE": {
+      "MEGUGEDE": {
         "jumlah_kk": 3458,
         "pria": 5702,
         "wanita": 5210,
@@ -40291,7 +40291,7 @@
           "kepercayaan": 0
         }
       },
-      "SETU KULON": {
+      "SETUKULON": {
         "jumlah_kk": 2617,
         "pria": 4095,
         "wanita": 4000,
@@ -40310,7 +40310,7 @@
           "kepercayaan": 0
         }
       },
-      "SETU WETAN": {
+      "SETUWETAN": {
         "jumlah_kk": 2488,
         "pria": 3874,
         "wanita": 3609,
@@ -40348,7 +40348,7 @@
           "kepercayaan": 0
         }
       },
-      "WERU KIDUL": {
+      "WERUKIDUL": {
         "jumlah_kk": 1983,
         "pria": 3052,
         "wanita": 2937,
@@ -40367,7 +40367,7 @@
           "kepercayaan": 0
         }
       },
-      "WERU LOR": {
+      "WERULOR": {
         "jumlah_kk": 2064,
         "pria": 3110,
         "wanita": 3004,
@@ -40388,7 +40388,7 @@
       }
     }
   },
-  "KABUPATEN GARUT": {
+  "KABUPATENGARUT": {
     "BANJARWANGI": {
       "BANJARWANGI": {
         "jumlah_kk": 2119,
@@ -41231,7 +41231,7 @@
         }
       }
     },
-    "BL. LIMBANGAN": {
+    "BLLIMBANGAN": {
       "CIGAGADE": {
         "jumlah_kk": 1667,
         "pria": 2732,
@@ -41327,7 +41327,7 @@
           "kepercayaan": 0
         }
       },
-      "LIMBANGAN BARAT": {
+      "LIMBANGANBARAT": {
         "jumlah_kk": 1893,
         "pria": 3221,
         "wanita": 2972,
@@ -41346,7 +41346,7 @@
           "kepercayaan": 0
         }
       },
-      "LIMBANGAN TENGAH": {
+      "LIMBANGANTENGAH": {
         "jumlah_kk": 1963,
         "pria": 2959,
         "wanita": 2908,
@@ -41365,7 +41365,7 @@
           "kepercayaan": 0
         }
       },
-      "LIMBANGAN TIMUR": {
+      "LIMBANGANTIMUR": {
         "jumlah_kk": 2685,
         "pria": 4021,
         "wanita": 3961,
@@ -41441,7 +41441,7 @@
           "kepercayaan": 0
         }
       },
-      "SIMPEN KALER": {
+      "SIMPENKALER": {
         "jumlah_kk": 2377,
         "pria": 3599,
         "wanita": 3357,
@@ -41460,7 +41460,7 @@
           "kepercayaan": 0
         }
       },
-      "SIMPEN KIDUL": {
+      "SIMPENKIDUL": {
         "jumlah_kk": 2348,
         "pria": 3821,
         "wanita": 3557,
@@ -41576,7 +41576,7 @@
           "kepercayaan": 0
         }
       },
-      "GUNUNG JAMPANG": {
+      "GUNUNGJAMPANG": {
         "jumlah_kk": 968,
         "pria": 1320,
         "wanita": 1116,
@@ -41941,7 +41941,7 @@
           "kepercayaan": 0
         }
       },
-      "MEKAR MUKTI": {
+      "MEKARMUKTI": {
         "jumlah_kk": 1106,
         "pria": 1677,
         "wanita": 1476,
@@ -42287,7 +42287,7 @@
       }
     },
     "CIBIUK": {
-      "CIBIUK KALER": {
+      "CIBIUKKALER": {
         "jumlah_kk": 2557,
         "pria": 4595,
         "wanita": 4253,
@@ -42306,7 +42306,7 @@
           "kepercayaan": 0
         }
       },
-      "CIBIUK KIDUL": {
+      "CIBIUKKIDUL": {
         "jumlah_kk": 1880,
         "pria": 3348,
         "wanita": 3056,
@@ -44052,7 +44052,7 @@
         }
       }
     },
-    "GARUT KOTA": {
+    "GARUTKOTA": {
       "CIMUNCANG": {
         "jumlah_kk": 3652,
         "pria": 6021,
@@ -44091,7 +44091,7 @@
           "kepercayaan": 0
         }
       },
-      "KOTA KULON": {
+      "KOTAKULON": {
         "jumlah_kk": 7535,
         "pria": 11112,
         "wanita": 10968,
@@ -44110,7 +44110,7 @@
           "kepercayaan": 0
         }
       },
-      "KOTA WETAN": {
+      "KOTAWETAN": {
         "jumlah_kk": 4889,
         "pria": 7581,
         "wanita": 7377,
@@ -44148,7 +44148,7 @@
           "kepercayaan": 0
         }
       },
-      "MUARA SANDING": {
+      "MUARASANDING": {
         "jumlah_kk": 4066,
         "pria": 5958,
         "wanita": 5979,
@@ -44874,7 +44874,7 @@
           "kepercayaan": 0
         }
       },
-      "SUCI KALER": {
+      "SUCIKALER": {
         "jumlah_kk": 2952,
         "pria": 4831,
         "wanita": 4643,
@@ -45471,7 +45471,7 @@
           "kepercayaan": 0
         }
       },
-      "TAMBAK SARI": {
+      "TAMBAKSARI": {
         "jumlah_kk": 1796,
         "pria": 2831,
         "wanita": 2711,
@@ -45492,7 +45492,7 @@
       }
     },
     "MALANGBONG": {
-      "BARU DUA": {
+      "BARUDUA": {
         "jumlah_kk": 1459,
         "pria": 2488,
         "wanita": 2306,
@@ -46315,7 +46315,7 @@
           "kepercayaan": 0
         }
       },
-      "BOJONG KIDUL": {
+      "BOJONGKIDUL": {
         "jumlah_kk": 939,
         "pria": 1333,
         "wanita": 1289,
@@ -46547,7 +46547,7 @@
       }
     },
     "PANGATIKAN": {
-      "BABAKAN LOA": {
+      "BABAKANLOA": {
         "jumlah_kk": 1972,
         "pria": 3247,
         "wanita": 3064,
@@ -47256,7 +47256,7 @@
           "kepercayaan": 0
         }
       },
-      "TANJUNG KARYA": {
+      "TANJUNGKARYA": {
         "jumlah_kk": 2274,
         "pria": 3815,
         "wanita": 3650,
@@ -47893,7 +47893,7 @@
           "kepercayaan": 0
         }
       },
-      "MEKAR HURIP": {
+      "MEKARHURIP": {
         "jumlah_kk": 864,
         "pria": 1400,
         "wanita": 1331,
@@ -48219,7 +48219,7 @@
         }
       }
     },
-    "TAROGONG KALER": {
+    "TAROGONGKALER": {
       "CIMANGANTEN": {
         "jumlah_kk": 2300,
         "pria": 3452,
@@ -48448,7 +48448,7 @@
           "kepercayaan": 0
         }
       },
-      "TANJUNG KAMUNING": {
+      "TANJUNGKAMUNING": {
         "jumlah_kk": 2818,
         "pria": 4326,
         "wanita": 4268,
@@ -48468,7 +48468,7 @@
         }
       }
     },
-    "TAROGONG KIDUL": {
+    "TAROGONGKIDUL": {
       "CIBUNAR": {
         "jumlah_kk": 1750,
         "pria": 2794,
@@ -48872,7 +48872,7 @@
       }
     }
   },
-  "KABUPATEN INDRAMAYU": {
+  "KABUPATENINDRAMAYU": {
     "ANJATAN": {
       "ANJATAN": {
         "jumlah_kk": 2214,
@@ -48893,7 +48893,7 @@
           "kepercayaan": 0
         }
       },
-      "ANJATAN BARU": {
+      "ANJATANBARU": {
         "jumlah_kk": 2749,
         "pria": 3825,
         "wanita": 3662,
@@ -48912,7 +48912,7 @@
           "kepercayaan": 0
         }
       },
-      "ANJATAN UTARA": {
+      "ANJATANUTARA": {
         "jumlah_kk": 3234,
         "pria": 4472,
         "wanita": 4408,
@@ -48988,7 +48988,7 @@
           "kepercayaan": 0
         }
       },
-      "CILANDAK LOR": {
+      "CILANDAKLOR": {
         "jumlah_kk": 2346,
         "pria": 2963,
         "wanita": 2960,
@@ -49123,7 +49123,7 @@
       }
     },
     "ARAHAN": {
-      "ARAHAN KIDUL": {
+      "ARAHANKIDUL": {
         "jumlah_kk": 2319,
         "pria": 2990,
         "wanita": 2914,
@@ -49142,7 +49142,7 @@
           "kepercayaan": 0
         }
       },
-      "ARAHAN LOR": {
+      "ARAHANLOR": {
         "jumlah_kk": 2374,
         "pria": 2971,
         "wanita": 2992,
@@ -49372,7 +49372,7 @@
           "kepercayaan": 0
         }
       },
-      "SUDIMAMPIR LOR": {
+      "SUDIMAMPIRLOR": {
         "jumlah_kk": 2268,
         "pria": 3133,
         "wanita": 2994,
@@ -49796,7 +49796,7 @@
           "kepercayaan": 0
         }
       },
-      "CANTIGI KULON": {
+      "CANTIGIKULON": {
         "jumlah_kk": 1606,
         "pria": 2329,
         "wanita": 2324,
@@ -49815,7 +49815,7 @@
           "kepercayaan": 0
         }
       },
-      "CANTIGI WETAN": {
+      "CANTIGIWETAN": {
         "jumlah_kk": 1606,
         "pria": 2119,
         "wanita": 2082,
@@ -49872,7 +49872,7 @@
           "kepercayaan": 0
         }
       },
-      "PANYINGKIRAN KIDUL": {
+      "PANYINGKIRANKIDUL": {
         "jumlah_kk": 1450,
         "pria": 2099,
         "wanita": 2014,
@@ -49891,7 +49891,7 @@
           "kepercayaan": 0
         }
       },
-      "PANYINGKIRAN LOR": {
+      "PANYINGKIRANLOR": {
         "jumlah_kk": 1697,
         "pria": 2390,
         "wanita": 2313,
@@ -49950,7 +49950,7 @@
           "kepercayaan": 3
         }
       },
-      "CIKEDUNG LOR": {
+      "CIKEDUNGLOR": {
         "jumlah_kk": 2794,
         "pria": 3493,
         "wanita": 3567,
@@ -50066,7 +50066,7 @@
           "kepercayaan": 0
         }
       },
-      "DRUNTEN KULON": {
+      "DRUNTENKULON": {
         "jumlah_kk": 1929,
         "pria": 2649,
         "wanita": 2621,
@@ -50085,7 +50085,7 @@
           "kepercayaan": 0
         }
       },
-      "DRUNTEN WETAN": {
+      "DRUNTENWETAN": {
         "jumlah_kk": 3878,
         "pria": 5448,
         "wanita": 5427,
@@ -50104,7 +50104,7 @@
           "kepercayaan": 1
         }
       },
-      "GABUS KULON": {
+      "GABUSKULON": {
         "jumlah_kk": 3076,
         "pria": 4020,
         "wanita": 4154,
@@ -50794,7 +50794,7 @@
           "kepercayaan": 0
         }
       },
-      "PEKANDANGAN JAYA": {
+      "PEKANDANGANJAYA": {
         "jumlah_kk": 2018,
         "pria": 2863,
         "wanita": 2817,
@@ -50929,7 +50929,7 @@
           "kepercayaan": 0
         }
       },
-      "BULAK LOR": {
+      "BULAKLOR": {
         "jumlah_kk": 2319,
         "pria": 3023,
         "wanita": 3089,
@@ -50967,7 +50967,7 @@
           "kepercayaan": 0
         }
       },
-      "JATIBARANG BARU": {
+      "JATIBARANGBARU": {
         "jumlah_kk": 3502,
         "pria": 4998,
         "wanita": 4939,
@@ -51005,7 +51005,7 @@
           "kepercayaan": 0
         }
       },
-      "JATISAWIT LOR": {
+      "JATISAWITLOR": {
         "jumlah_kk": 1571,
         "pria": 2219,
         "wanita": 2251,
@@ -51100,7 +51100,7 @@
           "kepercayaan": 0
         }
       },
-      "LOBENER LOR": {
+      "LOBENERLOR": {
         "jumlah_kk": 1649,
         "pria": 2306,
         "wanita": 2298,
@@ -51368,7 +51368,7 @@
           "kepercayaan": 0
         }
       },
-      "SEGERAN KIDUL": {
+      "SEGERANKIDUL": {
         "jumlah_kk": 3798,
         "pria": 5227,
         "wanita": 5200,
@@ -51387,7 +51387,7 @@
           "kepercayaan": 0
         }
       },
-      "SEGERAN LOR": {
+      "SEGERANLOR": {
         "jumlah_kk": 4432,
         "pria": 6184,
         "wanita": 6094,
@@ -51465,7 +51465,7 @@
           "kepercayaan": 0
         }
       },
-      "ERETAN KULON": {
+      "ERETANKULON": {
         "jumlah_kk": 4063,
         "pria": 5896,
         "wanita": 5787,
@@ -51484,7 +51484,7 @@
           "kepercayaan": 0
         }
       },
-      "ERETAN WETAN": {
+      "ERETANWETAN": {
         "jumlah_kk": 4437,
         "pria": 6647,
         "wanita": 6336,
@@ -51695,7 +51695,7 @@
           "kepercayaan": 0
         }
       },
-      "DUKUH JERUK": {
+      "DUKUHJERUK": {
         "jumlah_kk": 2267,
         "pria": 3269,
         "wanita": 3221,
@@ -51714,7 +51714,7 @@
           "kepercayaan": 0
         }
       },
-      "DUKUH TENGAH": {
+      "DUKUHTENGAH": {
         "jumlah_kk": 1733,
         "pria": 2499,
         "wanita": 2502,
@@ -51733,7 +51733,7 @@
           "kepercayaan": 0
         }
       },
-      "KAPLONGAN LOR": {
+      "KAPLONGANLOR": {
         "jumlah_kk": 1758,
         "pria": 2722,
         "wanita": 2669,
@@ -51771,7 +51771,7 @@
           "kepercayaan": 0
         }
       },
-      "KARANGAMPEL KIDUL": {
+      "KARANGAMPELKIDUL": {
         "jumlah_kk": 3714,
         "pria": 5214,
         "wanita": 5354,
@@ -51886,7 +51886,7 @@
         }
       }
     },
-    "KEDOKAN BUNDER": {
+    "KEDOKANBUNDER": {
       "CANGKINGAN": {
         "jumlah_kk": 2826,
         "pria": 3682,
@@ -51963,7 +51963,7 @@
           "kepercayaan": 0
         }
       },
-      "KEDOKAN AGUNG": {
+      "KEDOKANAGUNG": {
         "jumlah_kk": 3658,
         "pria": 5241,
         "wanita": 5013,
@@ -52001,7 +52001,7 @@
           "kepercayaan": 0
         }
       },
-      "KEDOKANBUNDER WETAN": {
+      "KEDOKANBUNDERWETAN": {
         "jumlah_kk": 3068,
         "pria": 4498,
         "wanita": 4244,
@@ -52098,7 +52098,7 @@
           "kepercayaan": 0
         }
       },
-      "LARANGAN JAMBE": {
+      "LARANGANJAMBE": {
         "jumlah_kk": 947,
         "pria": 1228,
         "wanita": 1288,
@@ -52212,7 +52212,7 @@
           "kepercayaan": 0
         }
       },
-      "TENAJAR KIDUL": {
+      "TENAJARKIDUL": {
         "jumlah_kk": 2629,
         "pria": 3877,
         "wanita": 3797,
@@ -52231,7 +52231,7 @@
           "kepercayaan": 0
         }
       },
-      "TENAJAR LOR": {
+      "TENAJARLOR": {
         "jumlah_kk": 2583,
         "pria": 3986,
         "wanita": 3773,
@@ -52807,7 +52807,7 @@
           "kepercayaan": 0
         }
       },
-      "TEMPEL KULON": {
+      "TEMPELKULON": {
         "jumlah_kk": 1214,
         "pria": 1479,
         "wanita": 1534,
@@ -52885,7 +52885,7 @@
           "kepercayaan": 0
         }
       },
-      "KIAJARAN KULON": {
+      "KIAJARANKULON": {
         "jumlah_kk": 2292,
         "pria": 3103,
         "wanita": 2991,
@@ -52904,7 +52904,7 @@
           "kepercayaan": 0
         }
       },
-      "KIAJARAN WETAN": {
+      "KIAJARANWETAN": {
         "jumlah_kk": 1708,
         "pria": 2181,
         "wanita": 2202,
@@ -53037,7 +53037,7 @@
           "kepercayaan": 0
         }
       },
-      "RAMBATAN KULON": {
+      "RAMBATANKULON": {
         "jumlah_kk": 4154,
         "pria": 5802,
         "wanita": 5584,
@@ -53096,7 +53096,7 @@
       }
     },
     "LOSARANG": {
-      "CEMARA KULON": {
+      "CEMARAKULON": {
         "jumlah_kk": 786,
         "pria": 1214,
         "wanita": 1054,
@@ -53537,7 +53537,7 @@
           "kepercayaan": 0
         }
       },
-      "PATROL BARU": {
+      "PATROLBARU": {
         "jumlah_kk": 1949,
         "pria": 2737,
         "wanita": 2689,
@@ -53556,7 +53556,7 @@
           "kepercayaan": 0
         }
       },
-      "PATROL LOR": {
+      "PATROLLOR": {
         "jumlah_kk": 3609,
         "pria": 4981,
         "wanita": 4826,
@@ -53653,7 +53653,7 @@
           "kepercayaan": 0
         }
       },
-      "PANYINDANGAN KULON": {
+      "PANYINDANGANKULON": {
         "jumlah_kk": 2960,
         "pria": 4049,
         "wanita": 3930,
@@ -53672,7 +53672,7 @@
           "kepercayaan": 0
         }
       },
-      "PANYINDANGAN WETAN": {
+      "PANYINDANGANWETAN": {
         "jumlah_kk": 1965,
         "pria": 2649,
         "wanita": 2601,
@@ -53710,7 +53710,7 @@
           "kepercayaan": 0
         }
       },
-      "RAMBATAN WETAN": {
+      "RAMBATANWETAN": {
         "jumlah_kk": 3091,
         "pria": 4134,
         "wanita": 4166,
@@ -53902,7 +53902,7 @@
           "kepercayaan": 0
         }
       },
-      "SLEMAN LOR": {
+      "SLEMANLOR": {
         "jumlah_kk": 1738,
         "pria": 2385,
         "wanita": 2307,
@@ -53940,7 +53940,7 @@
           "kepercayaan": 0
         }
       },
-      "SLIYEG LOR": {
+      "SLIYEGLOR": {
         "jumlah_kk": 1452,
         "pria": 1864,
         "wanita": 1862,
@@ -53997,7 +53997,7 @@
           "kepercayaan": 0
         }
       },
-      "TAMBI LOR": {
+      "TAMBILOR": {
         "jumlah_kk": 1913,
         "pria": 2688,
         "wanita": 2570,
@@ -54035,7 +54035,7 @@
           "kepercayaan": 0
         }
       },
-      "TUGU KIDUL": {
+      "TUGUKIDUL": {
         "jumlah_kk": 2124,
         "pria": 2684,
         "wanita": 2794,
@@ -54075,7 +54075,7 @@
           "kepercayaan": 0
         }
       },
-      "CADANG PINGGAN": {
+      "CADANGPINGGAN": {
         "jumlah_kk": 1200,
         "pria": 1681,
         "wanita": 1582,
@@ -54248,7 +54248,7 @@
           "kepercayaan": 1
         }
       },
-      "SUKRA WETAN": {
+      "SUKRAWETAN": {
         "jumlah_kk": 3352,
         "pria": 4465,
         "wanita": 4514,
@@ -54286,7 +54286,7 @@
           "kepercayaan": 0
         }
       },
-      "SUMURADEM TIMUR": {
+      "SUMURADEMTIMUR": {
         "jumlah_kk": 2926,
         "pria": 4017,
         "wanita": 3913,
@@ -54767,7 +54767,7 @@
       }
     },
     "WIDASARI": {
-      "BANGKALOA ILIR": {
+      "BANGKALOAILIR": {
         "jumlah_kk": 2286,
         "pria": 3226,
         "wanita": 3155,
@@ -54919,7 +54919,7 @@
           "kepercayaan": 0
         }
       },
-      "UJUNGPONDOK JAYA": {
+      "UJUNGPONDOKJAYA": {
         "jumlah_kk": 900,
         "pria": 1204,
         "wanita": 1188,
@@ -54959,7 +54959,7 @@
       }
     }
   },
-  "KABUPATEN KARAWANG": {
+  "KABUPATENKARAWANG": {
     "BANYUSARI": {
       "BANYUASIH": {
         "jumlah_kk": 1139,
@@ -54980,7 +54980,7 @@
           "kepercayaan": 0
         }
       },
-      "CICINDE SELATAN": {
+      "CICINDESELATAN": {
         "jumlah_kk": 2403,
         "pria": 3370,
         "wanita": 3201,
@@ -54999,7 +54999,7 @@
           "kepercayaan": 0
         }
       },
-      "CICINDE UTARA": {
+      "CICINDEUTARA": {
         "jumlah_kk": 2739,
         "pria": 3902,
         "wanita": 3797,
@@ -55056,7 +55056,7 @@
           "kepercayaan": 0
         }
       },
-      "GEMPOL KOLOT": {
+      "GEMPOLKOLOT": {
         "jumlah_kk": 1624,
         "pria": 2150,
         "wanita": 2078,
@@ -55729,7 +55729,7 @@
       }
     },
     "CIKAMPEK": {
-      "CIKAMPEK BARAT": {
+      "CIKAMPEKBARAT": {
         "jumlah_kk": 8616,
         "pria": 13278,
         "wanita": 13036,
@@ -55748,7 +55748,7 @@
           "kepercayaan": 0
         }
       },
-      "CIKAMPEK KOTA": {
+      "CIKAMPEKKOTA": {
         "jumlah_kk": 2361,
         "pria": 3369,
         "wanita": 3260,
@@ -55767,7 +55767,7 @@
           "kepercayaan": 0
         }
       },
-      "CIKAMPEK PUSAKA": {
+      "CIKAMPEKPUSAKA": {
         "jumlah_kk": 1950,
         "pria": 2898,
         "wanita": 2752,
@@ -55786,7 +55786,7 @@
           "kepercayaan": 0
         }
       },
-      "CIKAMPEK SELATAN": {
+      "CIKAMPEKSELATAN": {
         "jumlah_kk": 3690,
         "pria": 5491,
         "wanita": 5367,
@@ -55805,7 +55805,7 @@
           "kepercayaan": 0
         }
       },
-      "CIKAMPEK TIMUR": {
+      "CIKAMPEKTIMUR": {
         "jumlah_kk": 3674,
         "pria": 5466,
         "wanita": 5241,
@@ -55824,7 +55824,7 @@
           "kepercayaan": 0
         }
       },
-      "DAWUAN BARAT": {
+      "DAWUANBARAT": {
         "jumlah_kk": 5549,
         "pria": 8800,
         "wanita": 8738,
@@ -55843,7 +55843,7 @@
           "kepercayaan": 0
         }
       },
-      "DAWUAN TENGAH": {
+      "DAWUANTENGAH": {
         "jumlah_kk": 6649,
         "pria": 10307,
         "wanita": 10120,
@@ -55862,7 +55862,7 @@
           "kepercayaan": 0
         }
       },
-      "DAWUAN TIMUR": {
+      "DAWUANTIMUR": {
         "jumlah_kk": 5621,
         "pria": 8810,
         "wanita": 8538,
@@ -55920,8 +55920,8 @@
         }
       }
     },
-    "CILAMAYA KULON": {
-      "BAYUR KIDUL": {
+    "CILAMAYAKULON": {
+      "BAYURKIDUL": {
         "jumlah_kk": 1790,
         "pria": 2435,
         "wanita": 2366,
@@ -55940,7 +55940,7 @@
           "kepercayaan": 0
         }
       },
-      "BAYUR LOR": {
+      "BAYURLOR": {
         "jumlah_kk": 1290,
         "pria": 1744,
         "wanita": 1635,
@@ -56150,7 +56150,7 @@
         }
       }
     },
-    "CILAMAYA WETAN": {
+    "CILAMAYAWETAN": {
       "CIKALONG": {
         "jumlah_kk": 1822,
         "pria": 2384,
@@ -56265,7 +56265,7 @@
           "kepercayaan": 0
         }
       },
-      "RAWAGEMPOL KULON": {
+      "RAWAGEMPOLKULON": {
         "jumlah_kk": 2606,
         "pria": 3354,
         "wanita": 3330,
@@ -56284,7 +56284,7 @@
           "kepercayaan": 0
         }
       },
-      "RAWAGEMPOL WETAN": {
+      "RAWAGEMPOLWETAN": {
         "jumlah_kk": 2392,
         "pria": 3151,
         "wanita": 3190,
@@ -56476,7 +56476,7 @@
           "kepercayaan": 0
         }
       },
-      "PUSAKAJAYA SELATAN": {
+      "PUSAKAJAYASELATAN": {
         "jumlah_kk": 1282,
         "pria": 1819,
         "wanita": 1787,
@@ -56495,7 +56495,7 @@
           "kepercayaan": 0
         }
       },
-      "PUSAKAJAYA UTARA": {
+      "PUSAKAJAYAUTARA": {
         "jumlah_kk": 1992,
         "pria": 2755,
         "wanita": 2741,
@@ -56994,8 +56994,8 @@
         }
       }
     },
-    "KARAWANG BARAT": {
-      "ADIARSA BARAT": {
+    "KARAWANGBARAT": {
+      "ADIARSABARAT": {
         "jumlah_kk": 6775,
         "pria": 9955,
         "wanita": 10003,
@@ -57033,7 +57033,7 @@
           "kepercayaan": 0
         }
       },
-      "KARAWANG KULON": {
+      "KARAWANGKULON": {
         "jumlah_kk": 7914,
         "pria": 11410,
         "wanita": 11570,
@@ -57148,8 +57148,8 @@
         }
       }
     },
-    "KARAWANG TIMUR": {
-      "ADIARSA TIMUR": {
+    "KARAWANGTIMUR": {
+      "ADIARSATIMUR": {
         "jumlah_kk": 5456,
         "pria": 8484,
         "wanita": 8165,
@@ -57168,7 +57168,7 @@
           "kepercayaan": 0
         }
       },
-      "KARAWANG WETAN": {
+      "KARAWANGWETAN": {
         "jumlah_kk": 11937,
         "pria": 18919,
         "wanita": 18396,
@@ -57263,7 +57263,7 @@
           "kepercayaan": 0
         }
       },
-      "TEGAL SAWAH": {
+      "TEGALSAWAH": {
         "jumlah_kk": 3175,
         "pria": 4901,
         "wanita": 4794,
@@ -57551,8 +57551,8 @@
         }
       }
     },
-    "KOTA BARU": {
-      "CIKAMPEK UTARA": {
+    "KOTABARU": {
+      "CIKAMPEKUTARA": {
         "jumlah_kk": 6958,
         "pria": 10792,
         "wanita": 10393,
@@ -57571,7 +57571,7 @@
           "kepercayaan": 0
         }
       },
-      "JOMIN BARAT": {
+      "JOMINBARAT": {
         "jumlah_kk": 4106,
         "pria": 6260,
         "wanita": 6275,
@@ -57590,7 +57590,7 @@
           "kepercayaan": 0
         }
       },
-      "JOMIN TIMUR": {
+      "JOMINTIMUR": {
         "jumlah_kk": 3574,
         "pria": 5322,
         "wanita": 5328,
@@ -57609,7 +57609,7 @@
           "kepercayaan": 0
         }
       },
-      "PANGULAH BARU": {
+      "PANGULAHBARU": {
         "jumlah_kk": 1956,
         "pria": 2944,
         "wanita": 2930,
@@ -57628,7 +57628,7 @@
           "kepercayaan": 0
         }
       },
-      "PANGULAH SELATAN": {
+      "PANGULAHSELATAN": {
         "jumlah_kk": 5389,
         "pria": 8111,
         "wanita": 7960,
@@ -57647,7 +57647,7 @@
           "kepercayaan": 0
         }
       },
-      "PANGULAH UTARA": {
+      "PANGULAHUTARA": {
         "jumlah_kk": 5913,
         "pria": 9597,
         "wanita": 9453,
@@ -59375,7 +59375,7 @@
           "kepercayaan": 0
         }
       },
-      "RENGASDENGKLOK SELATAN": {
+      "RENGASDENGKLOKSELATAN": {
         "jumlah_kk": 8342,
         "pria": 12461,
         "wanita": 11922,
@@ -59394,7 +59394,7 @@
           "kepercayaan": 0
         }
       },
-      "RENGASDENGKLOK UTARA": {
+      "RENGASDENGKLOKUTARA": {
         "jumlah_kk": 6246,
         "pria": 9130,
         "wanita": 8835,
@@ -59588,7 +59588,7 @@
       }
     },
     "TELAGASARI": {
-      "CADAS KERTAJAYA": {
+      "CADASKERTAJAYA": {
         "jumlah_kk": 1417,
         "pria": 1847,
         "wanita": 1949,
@@ -59855,7 +59855,7 @@
         }
       }
     },
-    "TELUKJAMBE BARAT": {
+    "TELUKJAMBEBARAT": {
       "KARANGLIGAR": {
         "jumlah_kk": 2061,
         "pria": 2983,
@@ -60047,7 +60047,7 @@
         }
       }
     },
-    "TELUKJAMBE TIMUR": {
+    "TELUKJAMBETIMUR": {
       "PINAYUNGAN": {
         "jumlah_kk": 4034,
         "pria": 5833,
@@ -60892,7 +60892,7 @@
       }
     }
   },
-  "KABUPATEN KUNINGAN": {
+  "KABUPATENKUNINGAN": {
     "CIAWIGEBANG": {
       "CIAWIGEBANG": {
         "jumlah_kk": 2624,
@@ -65168,7 +65168,7 @@
         }
       }
     },
-    "KARANG KANCANA": {
+    "KARANGKANCANA": {
       "CIHANJARO": {
         "jumlah_kk": 600,
         "pria": 850,
@@ -68102,7 +68102,7 @@
       }
     }
   },
-  "KABUPATEN MAJALENGKA": {
+  "KABUPATENMAJALENGKA": {
     "ARGAPURA": {
       "ARGALINGGA": {
         "jumlah_kk": 1391,
@@ -68313,7 +68313,7 @@
           "kepercayaan": 0
         }
       },
-      "SUKASARI KALER": {
+      "SUKASARIKALER": {
         "jumlah_kk": 1344,
         "pria": 1900,
         "wanita": 1888,
@@ -68332,7 +68332,7 @@
           "kepercayaan": 0
         }
       },
-      "SUKASARI KIDUL": {
+      "SUKASARIKIDUL": {
         "jumlah_kk": 1204,
         "pria": 1659,
         "wanita": 1601,
@@ -69942,7 +69942,7 @@
           "kepercayaan": 0
         }
       },
-      "RANDEGAN KULON": {
+      "RANDEGANKULON": {
         "jumlah_kk": 1499,
         "pria": 1948,
         "wanita": 1994,
@@ -69961,7 +69961,7 @@
           "kepercayaan": 0
         }
       },
-      "RANDEGAN WETAN": {
+      "RANDEGANWETAN": {
         "jumlah_kk": 1502,
         "pria": 1907,
         "wanita": 1966,
@@ -69980,7 +69980,7 @@
           "kepercayaan": 0
         }
       },
-      "SUMBER KULON": {
+      "SUMBERKULON": {
         "jumlah_kk": 1404,
         "pria": 1729,
         "wanita": 1775,
@@ -69999,7 +69999,7 @@
           "kepercayaan": 0
         }
       },
-      "SUMBER WETAN": {
+      "SUMBERWETAN": {
         "jumlah_kk": 1569,
         "pria": 2019,
         "wanita": 1997,
@@ -70039,7 +70039,7 @@
           "kepercayaan": 0
         }
       },
-      "BURUJUL KULON": {
+      "BURUJULKULON": {
         "jumlah_kk": 2767,
         "pria": 3859,
         "wanita": 3760,
@@ -70058,7 +70058,7 @@
           "kepercayaan": 0
         }
       },
-      "BURUJUL WETAN": {
+      "BURUJULWETAN": {
         "jumlah_kk": 3435,
         "pria": 4831,
         "wanita": 4786,
@@ -70248,7 +70248,7 @@
           "kepercayaan": 0
         }
       },
-      "SUKARAJA KULON": {
+      "SUKARAJAKULON": {
         "jumlah_kk": 2274,
         "pria": 3250,
         "wanita": 3203,
@@ -70267,7 +70267,7 @@
           "kepercayaan": 0
         }
       },
-      "SUKARAJA WETAN": {
+      "SUKARAJAWETAN": {
         "jumlah_kk": 2494,
         "pria": 3407,
         "wanita": 3365,
@@ -70594,7 +70594,7 @@
           "kepercayaan": 0
         }
       },
-      "RANJI KULON": {
+      "RANJIKULON": {
         "jumlah_kk": 2531,
         "pria": 3514,
         "wanita": 3427,
@@ -70613,7 +70613,7 @@
           "kepercayaan": 0
         }
       },
-      "RANJI WETAN": {
+      "RANJIWETAN": {
         "jumlah_kk": 2721,
         "pria": 3712,
         "wanita": 3630,
@@ -71780,7 +71780,7 @@
           "kepercayaan": 0
         }
       },
-      "LEUWILIANG BARU": {
+      "LEUWILIANGBARU": {
         "jumlah_kk": 797,
         "pria": 1003,
         "wanita": 1091,
@@ -71818,7 +71818,7 @@
           "kepercayaan": 0
         }
       },
-      "LIGUNG LOR": {
+      "LIGUNGLOR": {
         "jumlah_kk": 1532,
         "pria": 2040,
         "wanita": 2020,
@@ -72067,7 +72067,7 @@
           "kepercayaan": 0
         }
       },
-      "MAJA SELATAN": {
+      "MAJASELATAN": {
         "jumlah_kk": 2180,
         "pria": 3313,
         "wanita": 3244,
@@ -72086,7 +72086,7 @@
           "kepercayaan": 0
         }
       },
-      "MAJA UTARA": {
+      "MAJAUTARA": {
         "jumlah_kk": 2143,
         "pria": 3160,
         "wanita": 2983,
@@ -72124,7 +72124,7 @@
           "kepercayaan": 0
         }
       },
-      "NUNUK BARU": {
+      "NUNUKBARU": {
         "jumlah_kk": 1503,
         "pria": 2000,
         "wanita": 1918,
@@ -72259,7 +72259,7 @@
       }
     },
     "MAJALENGKA": {
-      "BABAKAN JAWA": {
+      "BABAKANJAWA": {
         "jumlah_kk": 2665,
         "pria": 3696,
         "wanita": 3657,
@@ -72392,7 +72392,7 @@
           "kepercayaan": 0
         }
       },
-      "MAJALENGKA KULON": {
+      "MAJALENGKAKULON": {
         "jumlah_kk": 4121,
         "pria": 6025,
         "wanita": 6091,
@@ -72411,7 +72411,7 @@
           "kepercayaan": 0
         }
       },
-      "MAJALENGKA WETAN": {
+      "MAJALENGKAWETAN": {
         "jumlah_kk": 3436,
         "pria": 4630,
         "wanita": 4760,
@@ -72641,7 +72641,7 @@
           "kepercayaan": 0
         }
       },
-      "KRAMAT JAYA": {
+      "KRAMATJAYA": {
         "jumlah_kk": 544,
         "pria": 806,
         "wanita": 829,
@@ -73293,7 +73293,7 @@
           "kepercayaan": 0
         }
       },
-      "RAJAGALUH KIDUL": {
+      "RAJAGALUHKIDUL": {
         "jumlah_kk": 1991,
         "pria": 2942,
         "wanita": 2892,
@@ -73312,7 +73312,7 @@
           "kepercayaan": 0
         }
       },
-      "RAJAGALUH LOR": {
+      "RAJAGALUHLOR": {
         "jumlah_kk": 1448,
         "pria": 1999,
         "wanita": 1927,
@@ -73620,7 +73620,7 @@
           "kepercayaan": 0
         }
       },
-      "LENGKONG KULON": {
+      "LENGKONGKULON": {
         "jumlah_kk": 1122,
         "pria": 1593,
         "wanita": 1581,
@@ -73639,7 +73639,7 @@
           "kepercayaan": 0
         }
       },
-      "LENGKONG WETAN": {
+      "LENGKONGWETAN": {
         "jumlah_kk": 1173,
         "pria": 1633,
         "wanita": 1663,
@@ -74004,7 +74004,7 @@
           "kepercayaan": 0
         }
       },
-      "BONGAS KULON": {
+      "BONGASKULON": {
         "jumlah_kk": 1611,
         "pria": 2091,
         "wanita": 2164,
@@ -74023,7 +74023,7 @@
           "kepercayaan": 0
         }
       },
-      "BONGAS WETAN": {
+      "BONGASWETAN": {
         "jumlah_kk": 2498,
         "pria": 3372,
         "wanita": 3368,
@@ -74080,7 +74080,7 @@
           "kepercayaan": 0
         }
       },
-      "GELOK MULYA": {
+      "GELOKMULYA": {
         "jumlah_kk": 778,
         "pria": 1091,
         "wanita": 1071,
@@ -74156,7 +74156,7 @@
           "kepercayaan": 0
         }
       },
-      "PANJALIN KIDUL": {
+      "PANJALINKIDUL": {
         "jumlah_kk": 4153,
         "pria": 5933,
         "wanita": 5788,
@@ -74175,7 +74175,7 @@
           "kepercayaan": 0
         }
       },
-      "PANJALIN LOR": {
+      "PANJALINLOR": {
         "jumlah_kk": 2211,
         "pria": 3087,
         "wanita": 2969,
@@ -74597,7 +74597,7 @@
       }
     }
   },
-  "KABUPATEN PANGANDARAN": {
+  "KABUPATENPANGANDARAN": {
     "CIGUGUR": {
       "BUNISARI": {
         "jumlah_kk": 1299,
@@ -75329,7 +75329,7 @@
           "kepercayaan": 0
         }
       },
-      "BUNGUR RAYA": {
+      "BUNGURRAYA": {
         "jumlah_kk": 1075,
         "pria": 1482,
         "wanita": 1449,
@@ -76386,7 +76386,7 @@
       }
     }
   },
-  "KABUPATEN PURWAKARTA": {
+  "KABUPATENPURWAKARTA": {
     "BABAKANCIKAO": {
       "BABAKANCIKAO": {
         "jumlah_kk": 1821,
@@ -76561,7 +76561,7 @@
       }
     },
     "BOJONG": {
-      "BOJONG BARAT": {
+      "BOJONGBARAT": {
         "jumlah_kk": 1260,
         "pria": 2084,
         "wanita": 1939,
@@ -76580,7 +76580,7 @@
           "kepercayaan": 0
         }
       },
-      "BOJONG TIMUR": {
+      "BOJONGTIMUR": {
         "jumlah_kk": 1492,
         "pria": 2446,
         "wanita": 2246,
@@ -78055,7 +78055,7 @@
           "kepercayaan": 0
         }
       },
-      "TARINGGUL LANDEUH": {
+      "TARINGGULLANDEUH": {
         "jumlah_kk": 782,
         "pria": 1157,
         "wanita": 1072,
@@ -78498,7 +78498,7 @@
           "kepercayaan": 0
         }
       },
-      "CIBOGO GIRANG": {
+      "CIBOGOGIRANG": {
         "jumlah_kk": 2788,
         "pria": 4548,
         "wanita": 4383,
@@ -79053,7 +79053,7 @@
           "kepercayaan": 0
         }
       },
-      "NAGRI KALER": {
+      "NAGRIKALER": {
         "jumlah_kk": 8232,
         "pria": 12312,
         "wanita": 12338,
@@ -79072,7 +79072,7 @@
           "kepercayaan": 0
         }
       },
-      "NAGRI KIDUL": {
+      "NAGRIKIDUL": {
         "jumlah_kk": 5522,
         "pria": 8254,
         "wanita": 8187,
@@ -79091,7 +79091,7 @@
           "kepercayaan": 0
         }
       },
-      "NAGRI TENGAH": {
+      "NAGRITENGAH": {
         "jumlah_kk": 4041,
         "pria": 5824,
         "wanita": 5779,
@@ -79285,7 +79285,7 @@
           "kepercayaan": 0
         }
       },
-      "CIANTING UTARA": {
+      "CIANTINGUTARA": {
         "jumlah_kk": 1108,
         "pria": 1602,
         "wanita": 1607,
@@ -79840,7 +79840,7 @@
           "kepercayaan": 0
         }
       },
-      "LEGOK HUNI": {
+      "LEGOKHUNI": {
         "jumlah_kk": 950,
         "pria": 1507,
         "wanita": 1426,
@@ -79992,7 +79992,7 @@
           "kepercayaan": 0
         }
       },
-      "TARINGGUL TENGAH": {
+      "TARINGGULTENGAH": {
         "jumlah_kk": 1384,
         "pria": 2176,
         "wanita": 2034,
@@ -80011,7 +80011,7 @@
           "kepercayaan": 0
         }
       },
-      "TARINGGUL TONGGOH": {
+      "TARINGGULTONGGOH": {
         "jumlah_kk": 1293,
         "pria": 2031,
         "wanita": 1855,
@@ -80070,7 +80070,7 @@
       }
     }
   },
-  "KABUPATEN SUBANG": {
+  "KABUPATENSUBANG": {
     "BINONG": {
       "BINONG": {
         "jumlah_kk": 2771,
@@ -80418,7 +80418,7 @@
       }
     },
     "CIASEM": {
-      "CIASEM BARU": {
+      "CIASEMBARU": {
         "jumlah_kk": 4855,
         "pria": 6661,
         "wanita": 6513,
@@ -80437,7 +80437,7 @@
           "kepercayaan": 0
         }
       },
-      "CIASEM GIRANG": {
+      "CIASEMGIRANG": {
         "jumlah_kk": 5561,
         "pria": 7859,
         "wanita": 7735,
@@ -80456,7 +80456,7 @@
           "kepercayaan": 1
         }
       },
-      "CIASEM HILIR": {
+      "CIASEMHILIR": {
         "jumlah_kk": 4169,
         "pria": 5596,
         "wanita": 5478,
@@ -80475,7 +80475,7 @@
           "kepercayaan": 0
         }
       },
-      "CIASEM TENGAH": {
+      "CIASEMTENGAH": {
         "jumlah_kk": 4543,
         "pria": 6142,
         "wanita": 6045,
@@ -80745,7 +80745,7 @@
           "kepercayaan": 0
         }
       },
-      "CIBALANDONG JAYA": {
+      "CIBALANDONGJAYA": {
         "jumlah_kk": 711,
         "pria": 858,
         "wanita": 891,
@@ -81015,7 +81015,7 @@
       }
     },
     "CIKAUM": {
-      "CIKAUM BARAT": {
+      "CIKAUMBARAT": {
         "jumlah_kk": 1771,
         "pria": 2282,
         "wanita": 2281,
@@ -81034,7 +81034,7 @@
           "kepercayaan": 0
         }
       },
-      "CIKAUM TIMUR": {
+      "CIKAUMTIMUR": {
         "jumlah_kk": 1318,
         "pria": 1644,
         "wanita": 1718,
@@ -81148,7 +81148,7 @@
           "kepercayaan": 0
         }
       },
-      "TANJUNGSARI BARAT": {
+      "TANJUNGSARIBARAT": {
         "jumlah_kk": 2572,
         "pria": 3240,
         "wanita": 3245,
@@ -81167,7 +81167,7 @@
           "kepercayaan": 0
         }
       },
-      "TANJUNGSARI TIMUR": {
+      "TANJUNGSARITIMUR": {
         "jumlah_kk": 2695,
         "pria": 3467,
         "wanita": 3489,
@@ -81880,7 +81880,7 @@
           "kepercayaan": 0
         }
       },
-      "DAWUAN KALER": {
+      "DAWUANKALER": {
         "jumlah_kk": 1885,
         "pria": 2429,
         "wanita": 2466,
@@ -81899,7 +81899,7 @@
           "kepercayaan": 0
         }
       },
-      "DAWUAN KIDUL": {
+      "DAWUANKIDUL": {
         "jumlah_kk": 1776,
         "pria": 2223,
         "wanita": 2275,
@@ -82264,7 +82264,7 @@
           "kepercayaan": 0
         }
       },
-      "KALIJATI BARAT": {
+      "KALIJATIBARAT": {
         "jumlah_kk": 4653,
         "pria": 6311,
         "wanita": 6429,
@@ -82283,7 +82283,7 @@
           "kepercayaan": 0
         }
       },
-      "KALIJATI TIMUR": {
+      "KALIJATITIMUR": {
         "jumlah_kk": 3663,
         "pria": 4980,
         "wanita": 5116,
@@ -82321,7 +82321,7 @@
           "kepercayaan": 0
         }
       },
-      "TANGGULUN BARAT": {
+      "TANGGULUNBARAT": {
         "jumlah_kk": 2972,
         "pria": 3873,
         "wanita": 3943,
@@ -82340,7 +82340,7 @@
           "kepercayaan": 0
         }
       },
-      "TANGGULUN TIMUR": {
+      "TANGGULUNTIMUR": {
         "jumlah_kk": 3081,
         "pria": 4068,
         "wanita": 4003,
@@ -82399,7 +82399,7 @@
           "kepercayaan": 0
         }
       },
-      "KASOMALANG KULON": {
+      "KASOMALANGKULON": {
         "jumlah_kk": 2868,
         "pria": 3965,
         "wanita": 3974,
@@ -82418,7 +82418,7 @@
           "kepercayaan": 0
         }
       },
-      "KASOMALANG WETAN": {
+      "KASOMALANGWETAN": {
         "jumlah_kk": 2259,
         "pria": 3122,
         "wanita": 3054,
@@ -82650,7 +82650,7 @@
       }
     },
     "PABUARAN": {
-      "BALEBANDUNG JAYA": {
+      "BALEBANDUNGJAYA": {
         "jumlah_kk": 1119,
         "pria": 1446,
         "wanita": 1435,
@@ -82995,7 +82995,7 @@
         }
       }
     },
-    "PAGADEN BARAT": {
+    "PAGADENBARAT": {
       "BALINGBING": {
         "jumlah_kk": 2210,
         "pria": 2688,
@@ -83245,7 +83245,7 @@
           "kepercayaan": 0
         }
       },
-      "PAMANUKAN HILIR": {
+      "PAMANUKANHILIR": {
         "jumlah_kk": 2290,
         "pria": 2947,
         "wanita": 2947,
@@ -83264,7 +83264,7 @@
           "kepercayaan": 0
         }
       },
-      "PAMANUKAN SEBRANG": {
+      "PAMANUKANSEBRANG": {
         "jumlah_kk": 1930,
         "pria": 2576,
         "wanita": 2396,
@@ -83361,7 +83361,7 @@
           "kepercayaan": 0
         }
       },
-      "JATIRAGAS HILIR": {
+      "JATIRAGASHILIR": {
         "jumlah_kk": 2950,
         "pria": 3849,
         "wanita": 3927,
@@ -83494,7 +83494,7 @@
           "kepercayaan": 0
         }
       },
-      "TANJUNGRASA KIDUL": {
+      "TANJUNGRASAKIDUL": {
         "jumlah_kk": 2093,
         "pria": 2656,
         "wanita": 2653,
@@ -83648,7 +83648,7 @@
           "kepercayaan": 0
         }
       },
-      "PURWADADI BARAT": {
+      "PURWADADIBARAT": {
         "jumlah_kk": 3554,
         "pria": 4963,
         "wanita": 4984,
@@ -83764,7 +83764,7 @@
           "kepercayaan": 5
         }
       },
-      "CIGUGUR KALER": {
+      "CIGUGURKALER": {
         "jumlah_kk": 1911,
         "pria": 2360,
         "wanita": 2402,
@@ -84034,7 +84034,7 @@
           "kepercayaan": 0
         }
       },
-      "DAYEUH KOLOT": {
+      "DAYEUHKOLOT": {
         "jumlah_kk": 2105,
         "pria": 2858,
         "wanita": 2872,
@@ -84072,7 +84072,7 @@
           "kepercayaan": 0
         }
       },
-      "SAGALAHERANG KALER": {
+      "SAGALAHERANGKALER": {
         "jumlah_kk": 2292,
         "pria": 3153,
         "wanita": 3150,
@@ -84091,7 +84091,7 @@
           "kepercayaan": 0
         }
       },
-      "SAGALAHERANG KIDUL": {
+      "SAGALAHERANGKIDUL": {
         "jumlah_kk": 2129,
         "pria": 2955,
         "wanita": 2897,
@@ -84901,7 +84901,7 @@
       }
     }
   },
-  "KABUPATEN SUKABUMI": {
+  "KABUPATENSUKABUMI": {
     "BANTARGADUNG": {
       "BANTARGADUNG": {
         "jumlah_kk": 3807,
@@ -85135,7 +85135,7 @@
       }
     },
     "CARINGIN": {
-      "CARINGIN KULON": {
+      "CARINGINKULON": {
         "jumlah_kk": 1672,
         "pria": 2547,
         "wanita": 2408,
@@ -85154,7 +85154,7 @@
           "kepercayaan": 0
         }
       },
-      "CARINGIN WETAN": {
+      "CARINGINWETAN": {
         "jumlah_kk": 2029,
         "pria": 3091,
         "wanita": 2924,
@@ -85230,7 +85230,7 @@
           "kepercayaan": 0
         }
       },
-      "PASIR DATAR INDAH": {
+      "PASIRDATARINDAH": {
         "jumlah_kk": 1207,
         "pria": 1847,
         "wanita": 1775,
@@ -85462,7 +85462,7 @@
           "kepercayaan": 0
         }
       },
-      "CIHEULANG TONGGOH": {
+      "CIHEULANGTONGGOH": {
         "jumlah_kk": 3479,
         "pria": 5485,
         "wanita": 5248,
@@ -86346,7 +86346,7 @@
           "kepercayaan": 0
         }
       },
-      "PONDOKKASO TENGAH": {
+      "PONDOKKASOTENGAH": {
         "jumlah_kk": 2656,
         "pria": 4294,
         "wanita": 4170,
@@ -86365,7 +86365,7 @@
           "kepercayaan": 0
         }
       },
-      "PONDOKKASO TONGGOH": {
+      "PONDOKKASOTONGGOH": {
         "jumlah_kk": 2986,
         "pria": 4662,
         "wanita": 4614,
@@ -87097,7 +87097,7 @@
           "kepercayaan": 0
         }
       },
-      "CIKARAE THOYYIBAH": {
+      "CIKARAETHOYYIBAH": {
         "jumlah_kk": 1454,
         "pria": 2256,
         "wanita": 2069,
@@ -87675,7 +87675,7 @@
           "kepercayaan": 0
         }
       },
-      "CIBOLANG KALER": {
+      "CIBOLANGKALER": {
         "jumlah_kk": 3845,
         "pria": 5968,
         "wanita": 5865,
@@ -89327,7 +89327,7 @@
           "kepercayaan": 0
         }
       },
-      "PALASARI GIRANG": {
+      "PALASARIGIRANG": {
         "jumlah_kk": 2801,
         "pria": 4380,
         "wanita": 4101,
@@ -89715,7 +89715,7 @@
       }
     },
     "NAGRAK": {
-      "BABAKAN PANJANG": {
+      "BABAKANPANJANG": {
         "jumlah_kk": 1827,
         "pria": 2677,
         "wanita": 2558,
@@ -89848,7 +89848,7 @@
           "kepercayaan": 0
         }
       },
-      "NAGRAK SELATAN": {
+      "NAGRAKSELATAN": {
         "jumlah_kk": 2663,
         "pria": 3981,
         "wanita": 3882,
@@ -89867,7 +89867,7 @@
           "kepercayaan": 0
         }
       },
-      "NAGRAK UTARA": {
+      "NAGRAKUTARA": {
         "jumlah_kk": 5946,
         "pria": 8730,
         "wanita": 8589,
@@ -90156,7 +90156,7 @@
           "kepercayaan": 0
         }
       },
-      "LEMBUR SAWAH": {
+      "LEMBURSAWAH": {
         "jumlah_kk": 1695,
         "pria": 2311,
         "wanita": 2246,
@@ -90618,7 +90618,7 @@
           "kepercayaan": 0
         }
       },
-      "PALASARI HILIR": {
+      "PALASARIHILIR": {
         "jumlah_kk": 4133,
         "pria": 6704,
         "wanita": 6322,
@@ -90656,7 +90656,7 @@
           "kepercayaan": 0
         }
       },
-      "PONDOKKASO LANDEUH": {
+      "PONDOKKASOLANDEUH": {
         "jumlah_kk": 4233,
         "pria": 6658,
         "wanita": 6413,
@@ -92080,7 +92080,7 @@
           "kepercayaan": 0
         }
       },
-      "WALURAN MANDIRI": {
+      "WALURANMANDIRI": {
         "jumlah_kk": 2162,
         "pria": 3025,
         "wanita": 3006,
@@ -92331,7 +92331,7 @@
       }
     }
   },
-  "KABUPATEN SUMEDANG": {
+  "KABUPATENSUMEDANG": {
     "BUAHDUA": {
       "BOJONGLOA": {
         "jumlah_kk": 1370,
@@ -92698,7 +92698,7 @@
       }
     },
     "CIMALAKA": {
-      "CIBEUREUM KULON": {
+      "CIBEUREUMKULON": {
         "jumlah_kk": 1638,
         "pria": 2229,
         "wanita": 2136,
@@ -92717,7 +92717,7 @@
           "kepercayaan": 0
         }
       },
-      "CIBEUREUM WETAN": {
+      "CIBEUREUMWETAN": {
         "jumlah_kk": 1553,
         "pria": 2114,
         "wanita": 2036,
@@ -93485,7 +93485,7 @@
       }
     },
     "CONGGEANG": {
-      "BABAKAN ASEM": {
+      "BABAKANASEM": {
         "jumlah_kk": 1076,
         "pria": 1169,
         "wanita": 1193,
@@ -93580,7 +93580,7 @@
           "kepercayaan": 0
         }
       },
-      "CONGGEANG KULON": {
+      "CONGGEANGKULON": {
         "jumlah_kk": 1292,
         "pria": 1554,
         "wanita": 1653,
@@ -93599,7 +93599,7 @@
           "kepercayaan": 0
         }
       },
-      "CONGGEANG WETAN": {
+      "CONGGEANGWETAN": {
         "jumlah_kk": 831,
         "pria": 1031,
         "wanita": 1100,
@@ -93983,7 +93983,7 @@
           "kepercayaan": 0
         }
       },
-      "CIKONENG KULON": {
+      "CIKONENGKULON": {
         "jumlah_kk": 1005,
         "pria": 1508,
         "wanita": 1484,
@@ -95000,7 +95000,7 @@
           "kepercayaan": 0
         }
       },
-      "LEGOK KALER": {
+      "LEGOKKALER": {
         "jumlah_kk": 2060,
         "pria": 2919,
         "wanita": 2914,
@@ -95019,7 +95019,7 @@
           "kepercayaan": 0
         }
       },
-      "LEGOK KIDUL": {
+      "LEGOKKIDUL": {
         "jumlah_kk": 1762,
         "pria": 2369,
         "wanita": 2353,
@@ -95057,7 +95057,7 @@
           "kepercayaan": 0
         }
       },
-      "PASEH KALER": {
+      "PASEHKALER": {
         "jumlah_kk": 1976,
         "pria": 2749,
         "wanita": 2737,
@@ -95076,7 +95076,7 @@
           "kepercayaan": 0
         }
       },
-      "PASEH KIDUL": {
+      "PASEHKIDUL": {
         "jumlah_kk": 1483,
         "pria": 2030,
         "wanita": 2013,
@@ -95555,7 +95555,7 @@
           "kepercayaan": 0
         }
       },
-      "SITURAJA UTARA": {
+      "SITURAJAUTARA": {
         "jumlah_kk": 1673,
         "pria": 2345,
         "wanita": 2221,
@@ -95729,7 +95729,7 @@
         }
       }
     },
-    "SUMEDANG SELATAN": {
+    "SUMEDANGSELATAN": {
       "BAGINDA": {
         "jumlah_kk": 1679,
         "pria": 2444,
@@ -95844,7 +95844,7 @@
           "kepercayaan": 0
         }
       },
-      "KOTA KULON": {
+      "KOTAKULON": {
         "jumlah_kk": 4482,
         "pria": 6399,
         "wanita": 6248,
@@ -95901,7 +95901,7 @@
           "kepercayaan": 0
         }
       },
-      "MEKAR RAHAYU": {
+      "MEKARRAHAYU": {
         "jumlah_kk": 1372,
         "pria": 1981,
         "wanita": 1924,
@@ -95920,7 +95920,7 @@
           "kepercayaan": 0
         }
       },
-      "PASANGGRAHAN BARU": {
+      "PASANGGRAHANBARU": {
         "jumlah_kk": 4594,
         "pria": 6342,
         "wanita": 6316,
@@ -95939,7 +95939,7 @@
           "kepercayaan": 0
         }
       },
-      "REGOL WETAN": {
+      "REGOLWETAN": {
         "jumlah_kk": 2846,
         "pria": 3702,
         "wanita": 3986,
@@ -95997,7 +95997,7 @@
         }
       }
     },
-    "SUMEDANG UTARA": {
+    "SUMEDANGUTARA": {
       "GIRIMUKTI": {
         "jumlah_kk": 2734,
         "pria": 3911,
@@ -96074,7 +96074,7 @@
           "kepercayaan": 0
         }
       },
-      "KOTA KALER": {
+      "KOTAKALER": {
         "jumlah_kk": 4626,
         "pria": 6423,
         "wanita": 6443,
@@ -96880,7 +96880,7 @@
           "kepercayaan": 0
         }
       },
-      "GUNUNG MANIK": {
+      "GUNUNGMANIK": {
         "jumlah_kk": 3352,
         "pria": 5058,
         "wanita": 4867,
@@ -97264,7 +97264,7 @@
           "kepercayaan": 0
         }
       },
-      "KEBON CAU": {
+      "KEBONCAU": {
         "jumlah_kk": 1496,
         "pria": 1946,
         "wanita": 1970,
@@ -97399,7 +97399,7 @@
       }
     },
     "WADO": {
-      "CIKAREO SELATAN": {
+      "CIKAREOSELATAN": {
         "jumlah_kk": 1560,
         "pria": 2300,
         "wanita": 2147,
@@ -97418,7 +97418,7 @@
           "kepercayaan": 0
         }
       },
-      "CIKAREO UTARA": {
+      "CIKAREOUTARA": {
         "jumlah_kk": 1730,
         "pria": 2455,
         "wanita": 2306,
@@ -97591,7 +97591,7 @@
       }
     }
   },
-  "KABUPATEN TASIKMALAYA": {
+  "KABUPATENTASIKMALAYA": {
     "BANTARKALONG": {
       "HEGARWANGI": {
         "jumlah_kk": 1804,
@@ -100551,7 +100551,7 @@
           "kepercayaan": 0
         }
       },
-      "KARANG LAYUNG": {
+      "KARANGLAYUNG": {
         "jumlah_kk": 1844,
         "pria": 2263,
         "wanita": 2243,
@@ -104321,7 +104321,7 @@
       }
     }
   },
-  "KOTA BANDUNG": {
+  "KOTABANDUNG": {
     "ANDIR": {
       "CAMPAKA": {
         "jumlah_kk": 6118,
@@ -104361,7 +104361,7 @@
           "kepercayaan": 0
         }
       },
-      "DUNGUS CARIANG": {
+      "DUNGUSCARIANG": {
         "jumlah_kk": 6413,
         "pria": 9380,
         "wanita": 9500,
@@ -104399,7 +104399,7 @@
           "kepercayaan": 8
         }
       },
-      "KEBON JERUK": {
+      "KEBONJERUK": {
         "jumlah_kk": 4232,
         "pria": 5663,
         "wanita": 5755,
@@ -104439,7 +104439,7 @@
       }
     },
     "ANTAPANI": {
-      "ANTAPANI KIDUL": {
+      "ANTAPANIKIDUL": {
         "jumlah_kk": 8546,
         "pria": 12874,
         "wanita": 13222,
@@ -104458,7 +104458,7 @@
           "kepercayaan": 3
         }
       },
-      "ANTAPANI KULON": {
+      "ANTAPANIKULON": {
         "jumlah_kk": 3624,
         "pria": 5622,
         "wanita": 5681,
@@ -104477,7 +104477,7 @@
           "kepercayaan": 0
         }
       },
-      "ANTAPANI TENGAH": {
+      "ANTAPANITENGAH": {
         "jumlah_kk": 8093,
         "pria": 12250,
         "wanita": 12396,
@@ -104496,7 +104496,7 @@
           "kepercayaan": 0
         }
       },
-      "ANTAPANI WETAN": {
+      "ANTAPANIWETAN": {
         "jumlah_kk": 6457,
         "pria": 10105,
         "wanita": 10200,
@@ -104517,7 +104517,7 @@
       }
     },
     "ARCAMANIK": {
-      "CISARANTEN BINA HARAPAN": {
+      "CISARANTENBINAHARAPAN": {
         "jumlah_kk": 4093,
         "pria": 6367,
         "wanita": 6318,
@@ -104536,7 +104536,7 @@
           "kepercayaan": 0
         }
       },
-      "CISARANTEN ENDAH": {
+      "CISARANTENENDAH": {
         "jumlah_kk": 6705,
         "pria": 10661,
         "wanita": 10498,
@@ -104555,7 +104555,7 @@
           "kepercayaan": 0
         }
       },
-      "CISARANTEN KULON": {
+      "CISARANTENKULON": {
         "jumlah_kk": 8659,
         "pria": 13711,
         "wanita": 13756,
@@ -104594,7 +104594,7 @@
         }
       }
     },
-    "ASTANA ANYAR": {
+    "ASTANAANYAR": {
       "CIBADAK": {
         "jumlah_kk": 4708,
         "pria": 6753,
@@ -104614,7 +104614,7 @@
           "kepercayaan": 0
         }
       },
-      "KARANG ANYAR": {
+      "KARANGANYAR": {
         "jumlah_kk": 2434,
         "pria": 3222,
         "wanita": 3360,
@@ -104690,7 +104690,7 @@
           "kepercayaan": 0
         }
       },
-      "PELINDUNG HEWAN": {
+      "PELINDUNGHEWAN": {
         "jumlah_kk": 6591,
         "pria": 10161,
         "wanita": 10185,
@@ -104710,7 +104710,7 @@
         }
       }
     },
-    "BABAKAN CIPARAY": {
+    "BABAKANCIPARAY": {
       "BABAKAN": {
         "jumlah_kk": 10173,
         "pria": 16500,
@@ -104730,7 +104730,7 @@
           "kepercayaan": 0
         }
       },
-      "BABAKAN CIPARAY": {
+      "BABAKANCIPARAY": {
         "jumlah_kk": 11131,
         "pria": 17951,
         "wanita": 17172,
@@ -104768,7 +104768,7 @@
           "kepercayaan": 9
         }
       },
-      "MARGAHAYU UTARA": {
+      "MARGAHAYUUTARA": {
         "jumlah_kk": 7602,
         "pria": 12026,
         "wanita": 11805,
@@ -104826,7 +104826,7 @@
         }
       }
     },
-    "BANDUNG KIDUL": {
+    "BANDUNGKIDUL": {
       "BATUNUNGGAL": {
         "jumlah_kk": 6822,
         "pria": 9990,
@@ -104904,7 +104904,7 @@
         }
       }
     },
-    "BANDUNG KULON": {
+    "BANDUNGKULON": {
       "CARINGIN": {
         "jumlah_kk": 3056,
         "pria": 4764,
@@ -104943,7 +104943,7 @@
           "kepercayaan": 0
         }
       },
-      "CIGONDEWAH KALER": {
+      "CIGONDEWAHKALER": {
         "jumlah_kk": 6377,
         "pria": 10871,
         "wanita": 10302,
@@ -104962,7 +104962,7 @@
           "kepercayaan": 0
         }
       },
-      "CIGONDEWAH KIDUL": {
+      "CIGONDEWAHKIDUL": {
         "jumlah_kk": 3042,
         "pria": 4979,
         "wanita": 4883,
@@ -104981,7 +104981,7 @@
           "kepercayaan": 0
         }
       },
-      "CIGONDEWAH RAHAYU": {
+      "CIGONDEWAHRAHAYU": {
         "jumlah_kk": 3400,
         "pria": 5517,
         "wanita": 5431,
@@ -105019,7 +105019,7 @@
           "kepercayaan": 0
         }
       },
-      "GEMPOL SARI": {
+      "GEMPOLSARI": {
         "jumlah_kk": 7073,
         "pria": 10956,
         "wanita": 11111,
@@ -105038,7 +105038,7 @@
           "kepercayaan": 0
         }
       },
-      "WARUNG MUNCANG": {
+      "WARUNGMUNCANG": {
         "jumlah_kk": 6984,
         "pria": 11137,
         "wanita": 10716,
@@ -105058,7 +105058,7 @@
         }
       }
     },
-    "BANDUNG WETAN": {
+    "BANDUNGWETAN": {
       "CIHAPIT": {
         "jumlah_kk": 1531,
         "pria": 2005,
@@ -105097,7 +105097,7 @@
           "kepercayaan": 0
         }
       },
-      "TAMAN SARI": {
+      "TAMANSARI": {
         "jumlah_kk": 7971,
         "pria": 11516,
         "wanita": 11397,
@@ -105194,7 +105194,7 @@
           "kepercayaan": 0
         }
       },
-      "KEBON GEDANG": {
+      "KEBONGEDANG": {
         "jumlah_kk": 3477,
         "pria": 4963,
         "wanita": 5025,
@@ -105213,7 +105213,7 @@
           "kepercayaan": 0
         }
       },
-      "KEBON WARU": {
+      "KEBONWARU": {
         "jumlah_kk": 5064,
         "pria": 7506,
         "wanita": 7219,
@@ -105271,8 +105271,8 @@
         }
       }
     },
-    "BOJONGLOA KALER": {
-      "BABAKAN ASIH": {
+    "BOJONGLOAKALER": {
+      "BABAKANASIH": {
         "jumlah_kk": 5414,
         "pria": 8434,
         "wanita": 8128,
@@ -105291,7 +105291,7 @@
           "kepercayaan": 0
         }
       },
-      "BABAKAN TAROGONG": {
+      "BABAKANTAROGONG": {
         "jumlah_kk": 9524,
         "pria": 14980,
         "wanita": 14525,
@@ -105348,7 +105348,7 @@
           "kepercayaan": 4
         }
       },
-      "SUKA ASIH": {
+      "SUKAASIH": {
         "jumlah_kk": 6435,
         "pria": 10213,
         "wanita": 9992,
@@ -105368,7 +105368,7 @@
         }
       }
     },
-    "BOJONGLOA KIDUL": {
+    "BOJONGLOAKIDUL": {
       "CIBADUYUT": {
         "jumlah_kk": 4357,
         "pria": 7084,
@@ -105388,7 +105388,7 @@
           "kepercayaan": 12
         }
       },
-      "CIBADUYUT KIDUL": {
+      "CIBADUYUTKIDUL": {
         "jumlah_kk": 2991,
         "pria": 4942,
         "wanita": 4766,
@@ -105407,7 +105407,7 @@
           "kepercayaan": 0
         }
       },
-      "CIBADUYUT WETAN": {
+      "CIBADUYUTWETAN": {
         "jumlah_kk": 2815,
         "pria": 4524,
         "wanita": 4500,
@@ -105426,7 +105426,7 @@
           "kepercayaan": 0
         }
       },
-      "KEBON LEGA": {
+      "KEBONLEGA": {
         "jumlah_kk": 8018,
         "pria": 12312,
         "wanita": 12053,
@@ -105445,7 +105445,7 @@
           "kepercayaan": 1
         }
       },
-      "MEKAR WANGI": {
+      "MEKARWANGI": {
         "jumlah_kk": 3651,
         "pria": 5673,
         "wanita": 5560,
@@ -105504,7 +105504,7 @@
           "kepercayaan": 17
         }
       },
-      "JATI SARI": {
+      "JATISARI": {
         "jumlah_kk": 3131,
         "pria": 4575,
         "wanita": 4860,
@@ -105562,7 +105562,7 @@
         }
       }
     },
-    "CIBEUNYING KALER": {
+    "CIBEUNYINGKALER": {
       "CIGADUNG": {
         "jumlah_kk": 10814,
         "pria": 16539,
@@ -105582,7 +105582,7 @@
           "kepercayaan": 2
         }
       },
-      "CIHAUR GEULIS": {
+      "CIHAURGEULIS": {
         "jumlah_kk": 4440,
         "pria": 6393,
         "wanita": 6717,
@@ -105640,7 +105640,7 @@
         }
       }
     },
-    "CIBEUNYING KIDUL": {
+    "CIBEUNYINGKIDUL": {
       "CICADAS": {
         "jumlah_kk": 5368,
         "pria": 8243,
@@ -105814,7 +105814,7 @@
           "kepercayaan": 0
         }
       },
-      "PASIR BIRU": {
+      "PASIRBIRU": {
         "jumlah_kk": 5325,
         "pria": 8704,
         "wanita": 8397,
@@ -105854,7 +105854,7 @@
           "kepercayaan": 0
         }
       },
-      "HUSEIN SASTRANEGARA": {
+      "HUSEINSASTRANEGARA": {
         "jumlah_kk": 5529,
         "pria": 8582,
         "wanita": 8247,
@@ -106010,7 +106010,7 @@
       }
     },
     "CINAMBO": {
-      "BABAKAN PENGHULU": {
+      "BABAKANPENGHULU": {
         "jumlah_kk": 2504,
         "pria": 3888,
         "wanita": 3829,
@@ -106029,7 +106029,7 @@
           "kepercayaan": 0
         }
       },
-      "CISARANTEN WETAN": {
+      "CISARANTENWETAN": {
         "jumlah_kk": 2099,
         "pria": 3338,
         "wanita": 3246,
@@ -106126,7 +106126,7 @@
           "kepercayaan": 4
         }
       },
-      "LEBAK GEDE": {
+      "LEBAKGEDE": {
         "jumlah_kk": 3858,
         "pria": 5508,
         "wanita": 5593,
@@ -106145,7 +106145,7 @@
           "kepercayaan": 0
         }
       },
-      "LEBAK SILIWANGI": {
+      "LEBAKSILIWANGI": {
         "jumlah_kk": 1431,
         "pria": 2056,
         "wanita": 2058,
@@ -106164,7 +106164,7 @@
           "kepercayaan": 0
         }
       },
-      "SADANG SERANG": {
+      "SADANGSERANG": {
         "jumlah_kk": 9149,
         "pria": 13567,
         "wanita": 13709,
@@ -106223,7 +106223,7 @@
           "kepercayaan": 0
         }
       },
-      "CISARANTEN KIDUL": {
+      "CISARANTENKIDUL": {
         "jumlah_kk": 7303,
         "pria": 10950,
         "wanita": 10919,
@@ -106282,7 +106282,7 @@
       }
     },
     "KIARACONDONG": {
-      "BABAKAN SARI": {
+      "BABAKANSARI": {
         "jumlah_kk": 12754,
         "pria": 19382,
         "wanita": 19363,
@@ -106301,7 +106301,7 @@
           "kepercayaan": 0
         }
       },
-      "BABAKAN SURABAYA": {
+      "BABAKANSURABAYA": {
         "jumlah_kk": 7049,
         "pria": 10718,
         "wanita": 10667,
@@ -106339,7 +106339,7 @@
           "kepercayaan": 0
         }
       },
-      "KEBON JAYANTI": {
+      "KEBONJAYANTI": {
         "jumlah_kk": 4522,
         "pria": 6725,
         "wanita": 6690,
@@ -106358,7 +106358,7 @@
           "kepercayaan": 0
         }
       },
-      "KEBON KANGKUNG": {
+      "KEBONKANGKUNG": {
         "jumlah_kk": 4479,
         "pria": 6544,
         "wanita": 6617,
@@ -106455,7 +106455,7 @@
           "kepercayaan": 1
         }
       },
-      "LINGKAR SELATAN": {
+      "LINGKARSELATAN": {
         "jumlah_kk": 3501,
         "pria": 5168,
         "wanita": 4916,
@@ -106552,7 +106552,7 @@
           "kepercayaan": 14
         }
       },
-      "KARANG PAMULANG": {
+      "KARANGPAMULANG": {
         "jumlah_kk": 6311,
         "pria": 9885,
         "wanita": 9735,
@@ -106571,7 +106571,7 @@
           "kepercayaan": 1
         }
       },
-      "PASIR IMPUN": {
+      "PASIRIMPUN": {
         "jumlah_kk": 4460,
         "pria": 6888,
         "wanita": 6943,
@@ -106590,7 +106590,7 @@
           "kepercayaan": 0
         }
       },
-      "SINDANG JAYA": {
+      "SINDANGJAYA": {
         "jumlah_kk": 5002,
         "pria": 7771,
         "wanita": 7743,
@@ -106611,7 +106611,7 @@
       }
     },
     "PANYILEUKAN": {
-      "CIPADUNG KIDUL": {
+      "CIPADUNGKIDUL": {
         "jumlah_kk": 5158,
         "pria": 7935,
         "wanita": 8139,
@@ -106630,7 +106630,7 @@
           "kepercayaan": 4
         }
       },
-      "CIPADUNG KULON": {
+      "CIPADUNGKULON": {
         "jumlah_kk": 4590,
         "pria": 7190,
         "wanita": 7257,
@@ -106649,7 +106649,7 @@
           "kepercayaan": 0
         }
       },
-      "CIPADUNG WETAN": {
+      "CIPADUNGWETAN": {
         "jumlah_kk": 1190,
         "pria": 1825,
         "wanita": 1803,
@@ -106668,7 +106668,7 @@
           "kepercayaan": 0
         }
       },
-      "MEKAR MULYA": {
+      "MEKARMULYA": {
         "jumlah_kk": 2547,
         "pria": 3957,
         "wanita": 3953,
@@ -106786,7 +106786,7 @@
           "kepercayaan": 0
         }
       },
-      "BALONG GEDE": {
+      "BALONGGEDE": {
         "jumlah_kk": 2935,
         "pria": 4078,
         "wanita": 4106,
@@ -107076,8 +107076,8 @@
         }
       }
     },
-    "SUMUR BANDUNG": {
-      "BABAKAN CIAMIS": {
+    "SUMURBANDUNG": {
+      "BABAKANCIAMIS": {
         "jumlah_kk": 2948,
         "pria": 4312,
         "wanita": 4486,
@@ -107115,7 +107115,7 @@
           "kepercayaan": 0
         }
       },
-      "KEBON PISANG": {
+      "KEBONPISANG": {
         "jumlah_kk": 4199,
         "pria": 6296,
         "wanita": 6310,
@@ -107193,7 +107193,7 @@
           "kepercayaan": 0
         }
       },
-      "PASIR ENDAH": {
+      "PASIRENDAH": {
         "jumlah_kk": 5708,
         "pria": 8893,
         "wanita": 9010,
@@ -107252,7 +107252,7 @@
       }
     }
   },
-  "KOTA BANJAR": {
+  "KOTABANJAR": {
     "BANJAR": {
       "BALOKANG": {
         "jumlah_kk": 3879,
@@ -107737,7 +107737,7 @@
       }
     }
   },
-  "KOTA BEKASI": {
+  "KOTABEKASI": {
     "BANTARGEBANG": {
       "BANTARGEBANG": {
         "jumlah_kk": 11008,
@@ -107816,7 +107816,7 @@
         }
       }
     },
-    "BEKASI BARAT": {
+    "BEKASIBARAT": {
       "BINTARA": {
         "jumlah_kk": 21036,
         "pria": 32665,
@@ -107913,7 +107913,7 @@
         }
       }
     },
-    "BEKASI SELATAN": {
+    "BEKASISELATAN": {
       "JAKAMULYA": {
         "jumlah_kk": 11788,
         "pria": 18606,
@@ -108010,7 +108010,7 @@
         }
       }
     },
-    "BEKASI TIMUR": {
+    "BEKASITIMUR": {
       "ARENJAYA": {
         "jumlah_kk": 21523,
         "pria": 32982,
@@ -108088,7 +108088,7 @@
         }
       }
     },
-    "BEKASI UTARA": {
+    "BEKASIUTARA": {
       "HARAPANBARU": {
         "jumlah_kk": 16868,
         "pria": 28502,
@@ -108146,7 +108146,7 @@
           "kepercayaan": 1
         }
       },
-      "TELUK PUCUNG": {
+      "TELUKPUCUNG": {
         "jumlah_kk": 22360,
         "pria": 35745,
         "wanita": 35478,
@@ -108555,7 +108555,7 @@
           "kepercayaan": 1
         }
       },
-      "JATIBENING BARU": {
+      "JATIBENINGBARU": {
         "jumlah_kk": 12778,
         "pria": 19420,
         "wanita": 19629,
@@ -108711,7 +108711,7 @@
       }
     },
     "RAWALUMBU": {
-      "BOJONG RAWALUMBU": {
+      "BOJONGRAWALUMBU": {
         "jumlah_kk": 25967,
         "pria": 40153,
         "wanita": 39778,
@@ -108789,9 +108789,9 @@
       }
     }
   },
-  "KOTA BOGOR": {
-    "BOGOR BARAT": {
-      "BALUMBANG JAYA": {
+  "KOTABOGOR": {
+    "BOGORBARAT": {
+      "BALUMBANGJAYA": {
         "jumlah_kk": 4318,
         "pria": 7023,
         "wanita": 6747,
@@ -108829,7 +108829,7 @@
           "kepercayaan": 0
         }
       },
-      "CILENDEK BARAT": {
+      "CILENDEKBARAT": {
         "jumlah_kk": 6857,
         "pria": 10394,
         "wanita": 10372,
@@ -108848,7 +108848,7 @@
           "kepercayaan": 0
         }
       },
-      "CILENDEK TIMUR": {
+      "CILENDEKTIMUR": {
         "jumlah_kk": 6225,
         "pria": 9833,
         "wanita": 9669,
@@ -108886,7 +108886,7 @@
           "kepercayaan": 0
         }
       },
-      "CURUG MEKAR": {
+      "CURUGMEKAR": {
         "jumlah_kk": 4469,
         "pria": 6911,
         "wanita": 6985,
@@ -108905,7 +108905,7 @@
           "kepercayaan": 0
         }
       },
-      "GUNUNG BATU": {
+      "GUNUNGBATU": {
         "jumlah_kk": 7375,
         "pria": 11309,
         "wanita": 10814,
@@ -108943,7 +108943,7 @@
           "kepercayaan": 2
         }
       },
-      "MARGA JAYA": {
+      "MARGAJAYA": {
         "jumlah_kk": 2285,
         "pria": 3649,
         "wanita": 3692,
@@ -108981,7 +108981,7 @@
           "kepercayaan": 2
         }
       },
-      "PASIR JAYA": {
+      "PASIRJAYA": {
         "jumlah_kk": 7423,
         "pria": 11672,
         "wanita": 11276,
@@ -109000,7 +109000,7 @@
           "kepercayaan": 0
         }
       },
-      "PASIR KUDA": {
+      "PASIRKUDA": {
         "jumlah_kk": 5478,
         "pria": 8562,
         "wanita": 8426,
@@ -109019,7 +109019,7 @@
           "kepercayaan": 0
         }
       },
-      "PASIR MULYA": {
+      "PASIRMULYA": {
         "jumlah_kk": 2008,
         "pria": 3109,
         "wanita": 3114,
@@ -109057,7 +109057,7 @@
           "kepercayaan": 0
         }
       },
-      "SINDANG BARANG": {
+      "SINDANGBARANG": {
         "jumlah_kk": 6616,
         "pria": 10430,
         "wanita": 10178,
@@ -109076,7 +109076,7 @@
           "kepercayaan": 0
         }
       },
-      "SITU GEDE": {
+      "SITUGEDE": {
         "jumlah_kk": 4011,
         "pria": 6467,
         "wanita": 6255,
@@ -109096,8 +109096,8 @@
         }
       }
     },
-    "BOGOR SELATAN": {
-      "BATU TULIS": {
+    "BOGORSELATAN": {
+      "BATUTULIS": {
         "jumlah_kk": 3629,
         "pria": 5328,
         "wanita": 5289,
@@ -109116,7 +109116,7 @@
           "kepercayaan": 0
         }
       },
-      "BOJONG KERTA": {
+      "BOJONGKERTA": {
         "jumlah_kk": 3451,
         "pria": 6205,
         "wanita": 5842,
@@ -109287,7 +109287,7 @@
           "kepercayaan": 0
         }
       },
-      "MUARA SARI": {
+      "MUARASARI": {
         "jumlah_kk": 3842,
         "pria": 6324,
         "wanita": 6055,
@@ -109306,7 +109306,7 @@
           "kepercayaan": 0
         }
       },
-      "MULYA HARJA": {
+      "MULYAHARJA": {
         "jumlah_kk": 7650,
         "pria": 13172,
         "wanita": 12492,
@@ -109382,7 +109382,7 @@
           "kepercayaan": 0
         }
       },
-      "RANGGA MEKAR": {
+      "RANGGAMEKAR": {
         "jumlah_kk": 5217,
         "pria": 8742,
         "wanita": 8356,
@@ -109402,7 +109402,7 @@
         }
       }
     },
-    "BOGOR TENGAH": {
+    "BOGORTENGAH": {
       "BABAKAN": {
         "jumlah_kk": 2769,
         "pria": 4042,
@@ -109422,7 +109422,7 @@
           "kepercayaan": 0
         }
       },
-      "BABAKAN PASAR": {
+      "BABAKANPASAR": {
         "jumlah_kk": 4042,
         "pria": 5947,
         "wanita": 5791,
@@ -109498,7 +109498,7 @@
           "kepercayaan": 0
         }
       },
-      "KEBON KALAPA": {
+      "KEBONKALAPA": {
         "jumlah_kk": 4167,
         "pria": 6271,
         "wanita": 6266,
@@ -109613,7 +109613,7 @@
         }
       }
     },
-    "BOGOR TIMUR": {
+    "BOGORTIMUR": {
       "BARANANGSIANG": {
         "jumlah_kk": 9405,
         "pria": 14288,
@@ -109729,7 +109729,7 @@
         }
       }
     },
-    "BOGOR UTARA": {
+    "BOGORUTARA": {
       "BANTARJATI": {
         "jumlah_kk": 8676,
         "pria": 13393,
@@ -109825,7 +109825,7 @@
           "kepercayaan": 0
         }
       },
-      "KEDUNG HALANG": {
+      "KEDUNGHALANG": {
         "jumlah_kk": 7936,
         "pria": 12397,
         "wanita": 12306,
@@ -109844,7 +109844,7 @@
           "kepercayaan": 0
         }
       },
-      "TANAH BARU": {
+      "TANAHBARU": {
         "jumlah_kk": 9129,
         "pria": 14911,
         "wanita": 14551,
@@ -109863,7 +109863,7 @@
           "kepercayaan": 5
         }
       },
-      "TEGAL GUNDIL": {
+      "TEGALGUNDIL": {
         "jumlah_kk": 9828,
         "pria": 15544,
         "wanita": 15429,
@@ -109883,7 +109883,7 @@
         }
       }
     },
-    "TANAH SAREAL": {
+    "TANAHSAREAL": {
       "CIBADAK": {
         "jumlah_kk": 8879,
         "pria": 14522,
@@ -109903,7 +109903,7 @@
           "kepercayaan": 0
         }
       },
-      "KAYU MANIS": {
+      "KAYUMANIS": {
         "jumlah_kk": 5216,
         "pria": 8614,
         "wanita": 8159,
@@ -109922,7 +109922,7 @@
           "kepercayaan": 0
         }
       },
-      "KEBON PEDES": {
+      "KEBONPEDES": {
         "jumlah_kk": 8297,
         "pria": 12884,
         "wanita": 12746,
@@ -109941,7 +109941,7 @@
           "kepercayaan": 0
         }
       },
-      "KEDUNG BADAK": {
+      "KEDUNGBADAK": {
         "jumlah_kk": 10176,
         "pria": 15691,
         "wanita": 15602,
@@ -109960,7 +109960,7 @@
           "kepercayaan": 1
         }
       },
-      "KEDUNG JAYA": {
+      "KEDUNGJAYA": {
         "jumlah_kk": 4438,
         "pria": 6927,
         "wanita": 6873,
@@ -109979,7 +109979,7 @@
           "kepercayaan": 0
         }
       },
-      "KEDUNG WARINGIN": {
+      "KEDUNGWARINGIN": {
         "jumlah_kk": 7928,
         "pria": 12256,
         "wanita": 12429,
@@ -110017,7 +110017,7 @@
           "kepercayaan": 1
         }
       },
-      "MEKAR WANGI": {
+      "MEKARWANGI": {
         "jumlah_kk": 7706,
         "pria": 12904,
         "wanita": 12496,
@@ -110074,7 +110074,7 @@
           "kepercayaan": 0
         }
       },
-      "TANAH SAREAL": {
+      "TANAHSAREAL": {
         "jumlah_kk": 3454,
         "pria": 5029,
         "wanita": 5129,
@@ -110095,8 +110095,8 @@
       }
     }
   },
-  "KOTA CIMAHI": {
-    "CIMAHI SELATAN": {
+  "KOTACIMAHI": {
+    "CIMAHISELATAN": {
       "CIBEBER": {
         "jumlah_kk": 10184,
         "pria": 15518,
@@ -110193,7 +110193,7 @@
         }
       }
     },
-    "CIMAHI TENGAH": {
+    "CIMAHITENGAH": {
       "BAROS": {
         "jumlah_kk": 7329,
         "pria": 10488,
@@ -110213,7 +110213,7 @@
           "kepercayaan": 0
         }
       },
-      "CIGUGUR TENGAH": {
+      "CIGUGURTENGAH": {
         "jumlah_kk": 15580,
         "pria": 24125,
         "wanita": 23560,
@@ -110309,7 +110309,7 @@
         }
       }
     },
-    "CIMAHI UTARA": {
+    "CIMAHIUTARA": {
       "CIBABAT": {
         "jumlah_kk": 18521,
         "pria": 28623,
@@ -110388,7 +110388,7 @@
       }
     }
   },
-  "KOTA CIREBON": {
+  "KOTACIREBON": {
     "HARJAMUKTI": {
       "ARGASUNYA": {
         "jumlah_kk": 7849,
@@ -110818,7 +110818,7 @@
       }
     }
   },
-  "KOTA DEPOK": {
+  "KOTADEPOK": {
     "BEJI": {
       "BEJI": {
         "jumlah_kk": 15756,
@@ -110839,7 +110839,7 @@
           "kepercayaan": 0
         }
       },
-      "BEJI TIMUR": {
+      "BEJITIMUR": {
         "jumlah_kk": 3668,
         "pria": 5742,
         "wanita": 5746,
@@ -110858,7 +110858,7 @@
           "kepercayaan": 0
         }
       },
-      "KEMIRI MUKA": {
+      "KEMIRIMUKA": {
         "jumlah_kk": 10480,
         "pria": 16400,
         "wanita": 16052,
@@ -110896,7 +110896,7 @@
           "kepercayaan": 0
         }
       },
-      "PONDOK CINA": {
+      "PONDOKCINA": {
         "jumlah_kk": 4213,
         "pria": 6367,
         "wanita": 6235,
@@ -110915,7 +110915,7 @@
           "kepercayaan": 0
         }
       },
-      "TANAH BARU": {
+      "TANAHBARU": {
         "jumlah_kk": 11404,
         "pria": 18101,
         "wanita": 18421,
@@ -110955,7 +110955,7 @@
           "kepercayaan": 0
         }
       },
-      "BOJONGSARI BARU": {
+      "BOJONGSARIBARU": {
         "jumlah_kk": 3894,
         "pria": 6360,
         "wanita": 6249,
@@ -110993,7 +110993,7 @@
           "kepercayaan": 0
         }
       },
-      "DUREN MEKAR": {
+      "DURENMEKAR": {
         "jumlah_kk": 5834,
         "pria": 9495,
         "wanita": 9386,
@@ -111012,7 +111012,7 @@
           "kepercayaan": 0
         }
       },
-      "DUREN SERIBU": {
+      "DURENSERIBU": {
         "jumlah_kk": 4204,
         "pria": 6756,
         "wanita": 6579,
@@ -111031,7 +111031,7 @@
           "kepercayaan": 0
         }
       },
-      "PONDOK PETIR": {
+      "PONDOKPETIR": {
         "jumlah_kk": 7714,
         "pria": 12622,
         "wanita": 12782,
@@ -111168,7 +111168,7 @@
       }
     },
     "CIMANGGIS": {
-      "CISALAK PASAR": {
+      "CISALAKPASAR": {
         "jumlah_kk": 8091,
         "pria": 12495,
         "wanita": 12556,
@@ -111244,7 +111244,7 @@
           "kepercayaan": 0
         }
       },
-      "PASIR GUNUNG SELATAN": {
+      "PASIRGUNUNGSELATAN": {
         "jumlah_kk": 12482,
         "pria": 18553,
         "wanita": 16230,
@@ -111322,7 +111322,7 @@
           "kepercayaan": 0
         }
       },
-      "PANGKALAN JATI": {
+      "PANGKALANJATI": {
         "jumlah_kk": 6032,
         "pria": 8806,
         "wanita": 8803,
@@ -111341,7 +111341,7 @@
           "kepercayaan": 0
         }
       },
-      "PANGKALAN JATI BARU": {
+      "PANGKALANJATIBARU": {
         "jumlah_kk": 3580,
         "pria": 5225,
         "wanita": 5337,
@@ -111362,7 +111362,7 @@
       }
     },
     "CIPAYUNG": {
-      "BOJONG PONDOK TERONG": {
+      "BOJONGPONDOKTERONG": {
         "jumlah_kk": 12698,
         "pria": 20209,
         "wanita": 19889,
@@ -111400,7 +111400,7 @@
           "kepercayaan": 0
         }
       },
-      "CIPAYUNG JAYA": {
+      "CIPAYUNGJAYA": {
         "jumlah_kk": 6867,
         "pria": 11301,
         "wanita": 11136,
@@ -111419,7 +111419,7 @@
           "kepercayaan": 0
         }
       },
-      "PONDOK JAYA": {
+      "PONDOKJAYA": {
         "jumlah_kk": 9152,
         "pria": 14732,
         "wanita": 14554,
@@ -111438,7 +111438,7 @@
           "kepercayaan": 1
         }
       },
-      "RATU JAYA": {
+      "RATUJAYA": {
         "jumlah_kk": 14029,
         "pria": 22268,
         "wanita": 22222,
@@ -111536,7 +111536,7 @@
         }
       }
     },
-    "PANCORAN MAS": {
+    "PANCORANMAS": {
       "DEPOK": {
         "jumlah_kk": 15062,
         "pria": 22888,
@@ -111556,7 +111556,7 @@
           "kepercayaan": 2
         }
       },
-      "DEPOK JAYA": {
+      "DEPOKJAYA": {
         "jumlah_kk": 8194,
         "pria": 11769,
         "wanita": 12757,
@@ -111594,7 +111594,7 @@
           "kepercayaan": 0
         }
       },
-      "PANCORAN MAS": {
+      "PANCORANMAS": {
         "jumlah_kk": 20769,
         "pria": 32545,
         "wanita": 32132,
@@ -111613,7 +111613,7 @@
           "kepercayaan": 0
         }
       },
-      "RANGKAPAN JAYA": {
+      "RANGKAPANJAYA": {
         "jumlah_kk": 13232,
         "pria": 21621,
         "wanita": 21238,
@@ -111632,7 +111632,7 @@
           "kepercayaan": 1
         }
       },
-      "RANGKAPAN JAYA BARU": {
+      "RANGKAPANJAYABARU": {
         "jumlah_kk": 12433,
         "pria": 20244,
         "wanita": 20073,
@@ -111710,7 +111710,7 @@
           "kepercayaan": 0
         }
       },
-      "PASIR PUTIH": {
+      "PASIRPUTIH": {
         "jumlah_kk": 10229,
         "pria": 16880,
         "wanita": 16568,
@@ -111767,7 +111767,7 @@
           "kepercayaan": 0
         }
       },
-      "SAWANGAN BARU": {
+      "SAWANGANBARU": {
         "jumlah_kk": 5982,
         "pria": 9913,
         "wanita": 9857,
@@ -111980,7 +111980,7 @@
           "kepercayaan": 0
         }
       },
-      "SUKAMAJU BARU": {
+      "SUKAMAJUBARU": {
         "jumlah_kk": 14782,
         "pria": 23229,
         "wanita": 22894,
@@ -112039,7 +112039,7 @@
       }
     }
   },
-  "KOTA SUKABUMI": {
+  "KOTASUKABUMI": {
     "BAROS": {
       "BAROS": {
         "jumlah_kk": 6114,
@@ -112098,7 +112098,7 @@
           "kepercayaan": 0
         }
       },
-      "SUDAJAYA HILIR": {
+      "SUDAJAYAHILIR": {
         "jumlah_kk": 2521,
         "pria": 3862,
         "wanita": 3817,
@@ -112138,7 +112138,7 @@
           "kepercayaan": 1
         }
       },
-      "CIBEUREUM HILIR": {
+      "CIBEUREUMHILIR": {
         "jumlah_kk": 4604,
         "pria": 7433,
         "wanita": 7213,
@@ -112235,7 +112235,7 @@
           "kepercayaan": 0
         }
       },
-      "GUNUNG PARANG": {
+      "GUNUNGPARANG": {
         "jumlah_kk": 1460,
         "pria": 1865,
         "wanita": 1973,
@@ -112351,7 +112351,7 @@
           "kepercayaan": 0
         }
       },
-      "GEDONG PANJANG": {
+      "GEDONGPANJANG": {
         "jumlah_kk": 3065,
         "pria": 4688,
         "wanita": 4648,
@@ -112409,8 +112409,8 @@
         }
       }
     },
-    "GUNUNG PUYUH": {
-      "GUNUNG PUYUH": {
+    "GUNUNGPUYUH": {
+      "GUNUNGPUYUH": {
         "jumlah_kk": 2939,
         "pria": 4302,
         "wanita": 4345,
@@ -112448,7 +112448,7 @@
           "kepercayaan": 0
         }
       },
-      "KARANG TENGAH": {
+      "KARANGTENGAH": {
         "jumlah_kk": 6606,
         "pria": 10861,
         "wanita": 10254,
@@ -112682,7 +112682,7 @@
       }
     }
   },
-  "KOTA TASIKMALAYA": {
+  "KOTATASIKMALAYA": {
     "BUNGURSARI": {
       "BANTARSARI": {
         "jumlah_kk": 4210,
@@ -112895,7 +112895,7 @@
           "kepercayaan": 0
         }
       },
-      "KOTA BARU": {
+      "KOTABARU": {
         "jumlah_kk": 5188,
         "pria": 7476,
         "wanita": 7421,
@@ -113262,7 +113262,7 @@
           "kepercayaan": 0
         }
       },
-      "SUKAMAJU KALER": {
+      "SUKAMAJUKALER": {
         "jumlah_kk": 4689,
         "pria": 6862,
         "wanita": 6771,
@@ -113281,7 +113281,7 @@
           "kepercayaan": 0
         }
       },
-      "SUKAMAJU KIDUL": {
+      "SUKAMAJUKIDUL": {
         "jumlah_kk": 3447,
         "pria": 5241,
         "wanita": 5081,
@@ -113340,7 +113340,7 @@
           "kepercayaan": 0
         }
       },
-      "GUNUNG GEDE": {
+      "GUNUNGGEDE": {
         "jumlah_kk": 3215,
         "pria": 5033,
         "wanita": 4775,
@@ -113359,7 +113359,7 @@
           "kepercayaan": 0
         }
       },
-      "GUNUNG TANDALA": {
+      "GUNUNGTANDALA": {
         "jumlah_kk": 3659,
         "pria": 5772,
         "wanita": 5555,

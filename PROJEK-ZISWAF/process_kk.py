@@ -36,11 +36,12 @@ def process_data():
     # aggregate to Desa level
     desa_data = df.groupby(['nama_kab', 'nama_kec', 'nama_kel'])[cols_to_sum].sum().reset_index()
     
+    import re
     result = {}
     for _, row in desa_data.iterrows():
-        kab = row['nama_kab']
-        kec = row['nama_kec']
-        desa = row['nama_kel']
+        kab = re.sub(r'[^A-Z0-9]', '', str(row['nama_kab']).upper())
+        kec = re.sub(r'[^A-Z0-9]', '', str(row['nama_kec']).upper())
+        desa = re.sub(r'[^A-Z0-9]', '', str(row['nama_kel']).upper())
         
         if kab not in result:
             result[kab] = {}

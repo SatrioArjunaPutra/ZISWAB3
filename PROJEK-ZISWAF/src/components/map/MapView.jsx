@@ -228,14 +228,6 @@ function MapView() {
          </>
       )}
 
-      {hoverInfo.zis && (
-         <div style={{ borderTop: "1px solid #eee", paddingTop: "12px" }}>
-           <div style={{ fontSize: "12px", fontWeight: "600", color: "#444", marginBottom: "8px" }}>Potensi ZISWAF</div>
-           <div style={{ display: "flex", justifyContent: "space-between", fontSize: "13px", color: "#555" }}>
-              <span>Total ZIS:</span> <span style={{fontWeight:"700", color: "#2E7D32"}}>Rp {(hoverInfo.zis.total_zis / 1000000000).toFixed(2)} M</span>
-           </div>
-         </div>
-      )}
     </div>
   </div>
 )}

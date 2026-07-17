@@ -136,6 +136,7 @@ export default function Desa_Kelurahan_layer({
             nama: p.NAMOBJ || "Tidak Diketahui",
             level: "Desa/Kelurahan",
             kabupaten: p.WADMKK || "Tidak Diketahui",
+            kecamatan: p.WADMKC || (selectedKecamatan ? selectedKecamatan.properties.WADMKC : "Tidak Diketahui"),
             provinsi: p.WADMPR || "Jawa Barat",
           });
         }

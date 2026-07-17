@@ -11,8 +11,6 @@ export default function Kecamatan_Layer({
 
     const [kecamatan, setKecamatan] = useState(null);
 
-    const [desaGeojson, setDesaGeojson] = useState(null);
-
     useEffect(() => {
 
         fetch("/data/geojson/kecamatan.geojson")
@@ -23,68 +21,7 @@ export default function Kecamatan_Layer({
 
     }, []);
 
-    useEffect(() => {
 
-        if (!selectedKabupaten) {
-
-            setDesaGeojson(null);
-            return;
-
-        }
-
-        const p = selectedKabupaten.properties;
-
-let nama = p.WADMKK;
-
-// hilangkan kata "Kota "
-nama = nama.replace(/^Kota\s+/i, "");
-
-nama = nama
-    .toLowerCase()
-    .replace(/\s+/g, "_");
-
-let fileName;
-
-if (p.TIPADM === 5) {
-
-    fileName = `kota_${nama}_desa_kelurahan.geojson`;
-
-} else {
-
-    fileName = `kabupaten_${nama}_desa_kelurahan.geojson`;
-
-}
-
-console.log(fileName);
-
-        fetch(`/data/geojson/desa/${fileName}`)
-
-            .then(res => {
-
-                if (!res.ok)
-                    throw new Error("GeoJSON desa tidak ditemukan");
-
-                return res.json();
-
-            })
-
-            .then(data => {
-
-                console.log("GeoJSON Desa :", fileName);
-
-                setDesaGeojson(data);
-
-            })
-
-            .catch(err => {
-
-                console.error(err);
-
-                setDesaGeojson(null);
-
-            });
-
-    }, [selectedKabupaten]);
 
         const filteredKecamatan = useMemo(() => {
 
@@ -114,33 +51,7 @@ console.log(fileName);
 
     ]);
 
-    const filteredDesa = useMemo(() => {
 
-        if (!desaGeojson) return null;
-
-        if (!selectedKecamatan) return null;
-
-        return {
-
-            type: "FeatureCollection",
-
-            features: desaGeojson.features.filter(
-
-                feature =>
-
-                    feature.properties.WADMKC ===
-                    selectedKecamatan.properties.WADMKC
-
-            )
-
-        };
-
-    }, [
-
-        desaGeojson,
-        selectedKecamatan
-
-    ]);
 
     const defaultStyle = {
 
@@ -170,17 +81,22 @@ console.log(fileName);
     };
 
     const styleFunction = (feature) => {
-  if (selectedKecamatan) {
-    return {
-      color: "transparent",
-      weight: 0,
-      opacity: 0,
-      fillOpacity: 0,
+        if (selectedKecamatan) {
+            if (selectedKecamatan.properties.WADMKC === feature.properties.WADMKC) {
+                return {
+                    color: "#2E7D32",
+                    weight: 3,
+                    fillOpacity: 0,
+                };
+            }
+            return {
+                ...defaultStyle,
+                fillOpacity: 0.05,
+                opacity: 0.5,
+            };
+        }
+        return defaultStyle;
     };
-  }
-
-  return defaultStyle;
-};
 
         const onEachFeature = (feature, layer) => {
 
@@ -231,95 +147,16 @@ console.log(fileName);
 
     };
 
-    const desaStyle = {
 
-        color: "#1565C0",
-        weight: 1,
-        fillColor: "#42A5F5",
-        fillOpacity: 0.35,
 
-    };
-
-    const onEachDesa = (feature, layer) => {
-
-    const p = feature.properties;
-
-    layer.on({
-
-        mouseover(e){
-
-            setHoverInfo({
-
-                nama: p.WADMKD,
-                level: "Desa/Kelurahan",
-                kabupaten: p.WADMKK,
-                provinsi: p.WADMPR,
-
-            });
-
-            e.target.setStyle({
-
-                color:"#FF9800",
-                weight:2,
-                fillOpacity:0.6
-
-            });
-
-        },
-
-        mouseout(e){
-
-            setHoverInfo(null);
-
-            e.target.setStyle(desaStyle);
-
-        }
-
-    });
-
-};
-
-    if (!filteredKecamatan)
-        return null;
+    if (!filteredKecamatan) return null;
 
     return (
-
-        <>
-
-            <GeoJSON
-
-                key={
-                    selectedKabupaten?.properties?.WADMKK || "kecamatan"
-                }
-
-                data={filteredKecamatan}
-
-                style={styleFunction}
-
-                onEachFeature={onEachFeature}
-
-            />
-
-            {filteredDesa && (
-
-                <GeoJSON
-
-                    key={
-                        selectedKecamatan?.properties?.WADMKC || "desa"
-                    }
-
-                    data={filteredDesa}
-
-                    style={desaStyle}
-
-                    onEachFeature={onEachDesa}
-
-                />
-
-            )}
-
-        </>
-
+        <GeoJSON
+            key={selectedKabupaten?.properties?.WADMKK || "kecamatan"}
+            data={filteredKecamatan}
+            style={styleFunction}
+            onEachFeature={onEachFeature}
+        />
     );
-
 }
