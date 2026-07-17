@@ -39,6 +39,7 @@ export default function Kabupaten_Kota_Layer({
   };
 
   const styleFunction = (feature) => {
+
     const zis = getZisData(feature.properties.WADMKK);
     const fillColor = zis ? getColor(zis.total_zis) : "#64B5F6";
 

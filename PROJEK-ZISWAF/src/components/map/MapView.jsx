@@ -47,6 +47,30 @@ function MapView() {
   const [selectedKecamatan, setSelectedKecamatan] = useState(null);
   const [selectedDesa, setSelectedDesa] = useState(null);
 
+  const [jumlahKK, setJumlahKK] = useState(null);
+
+  React.useEffect(() => {
+    fetch("/data/jumlah_kk.json")
+      .then(res => res.json())
+      .then(data => {
+         const normalizedData = {};
+         for (const kab in data) {
+            const normKab = kab.toUpperCase().replace(/[^A-Z0-9]/g, "");
+            normalizedData[normKab] = {};
+            for (const kec in data[kab]) {
+               const normKec = kec.toUpperCase().replace(/[^A-Z0-9]/g, "");
+               normalizedData[normKab][normKec] = {};
+               for (const desa in data[kab][kec]) {
+                  const normDesa = desa.toUpperCase().replace(/[^A-Z0-9]/g, "");
+                  normalizedData[normKab][normKec][normDesa] = data[kab][kec][desa];
+               }
+            }
+         }
+         setJumlahKK(normalizedData);
+      })
+      .catch(console.error);
+  }, []);
+
   const [hoverInfo, setHoverInfo] = useState(null);
   const [hoverPos, setHoverPos] = useState({ x: 0, y: 0 });
 
@@ -59,6 +83,56 @@ function MapView() {
       setSelectedKabupaten(null);
     }
   };
+
+  let hoverJumlahKK = null;
+  let hoverPria = null;
+  let hoverWanita = null;
+
+  if (hoverInfo && jumlahKK) {
+    let kab = hoverInfo.kabupaten ? hoverInfo.kabupaten.toUpperCase() : null;
+    if (kab && !kab.startsWith("KABUPATEN ") && !kab.startsWith("KOTA ")) {
+       kab = "KABUPATEN " + kab;
+    }
+    kab = kab ? kab.replace(/[^A-Z0-9]/g, "") : null;
+    
+    const nama = hoverInfo.nama ? hoverInfo.nama.toUpperCase().replace(/[^A-Z0-9]/g, "") : null;
+    
+    if (hoverInfo.level === "Desa/Kelurahan") {
+       const kec = hoverInfo.kecamatan ? hoverInfo.kecamatan.toUpperCase().replace(/[^A-Z0-9]/g, "") : null;
+       if (kab && kec && nama && jumlahKK[kab] && jumlahKK[kab][kec] && jumlahKK[kab][kec][nama] !== undefined) {
+          const dt = jumlahKK[kab][kec][nama];
+          hoverJumlahKK = (dt.jumlah_kk || 0).toLocaleString("id-ID") + " KK";
+          hoverPria = (dt.pria || 0).toLocaleString("id-ID") + " Jiwa";
+          hoverWanita = (dt.wanita || 0).toLocaleString("id-ID") + " Jiwa";
+       }
+    } else if (hoverInfo.level === "Kecamatan") {
+       if (kab && nama && jumlahKK[kab] && jumlahKK[kab][nama]) {
+          const vals = Object.values(jumlahKK[kab][nama]);
+          const sumKK = vals.reduce((a, b) => a + (b.jumlah_kk || 0), 0);
+          const sumPria = vals.reduce((a, b) => a + (b.pria || 0), 0);
+          const sumWanita = vals.reduce((a, b) => a + (b.wanita || 0), 0);
+          hoverJumlahKK = sumKK.toLocaleString("id-ID") + " KK";
+          hoverPria = sumPria.toLocaleString("id-ID") + " Jiwa";
+          hoverWanita = sumWanita.toLocaleString("id-ID") + " Jiwa";
+       }
+    } else if (hoverInfo.level === "Kabupaten/Kota") {
+       if (kab && jumlahKK[kab]) {
+          let sumKK = 0;
+          let sumPria = 0;
+          let sumWanita = 0;
+          for (const kec in jumlahKK[kab]) {
+             for (const desa in jumlahKK[kab][kec]) {
+                sumKK += jumlahKK[kab][kec][desa].jumlah_kk || 0;
+                sumPria += jumlahKK[kab][kec][desa].pria || 0;
+                sumWanita += jumlahKK[kab][kec][desa].wanita || 0;
+             }
+          }
+          hoverJumlahKK = sumKK.toLocaleString("id-ID") + " KK";
+          hoverPria = sumPria.toLocaleString("id-ID") + " Jiwa";
+          hoverWanita = sumWanita.toLocaleString("id-ID") + " Jiwa";
+       }
+    }
+  }
 
   return (
     <div
@@ -148,6 +222,28 @@ function MapView() {
         <td><b>Provinsi</b></td>
         <td>{hoverInfo.provinsi}</td>
       </tr>
+      {hoverJumlahKK && (
+        <>
+          <tr>
+            <td><b>Jumlah KK</b></td>
+            <td>{hoverJumlahKK}</td>
+          </tr>
+          <tr>
+            <td><b>Laki-laki</b></td>
+            <td>{hoverPria}</td>
+          </tr>
+          <tr>
+            <td><b>Perempuan</b></td>
+            <td>{hoverWanita}</td>
+          </tr>
+        </>
+      )}
+      {hoverInfo.jumlah_kk && !hoverJumlahKK && (
+        <tr>
+          <td><b>Jumlah KK</b></td>
+          <td>{hoverInfo.jumlah_kk}</td>
+        </tr>
+      )}
       {hoverInfo.zis && (
         <>
           <tr>
@@ -237,7 +333,6 @@ function MapView() {
           url="https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png"
         />
 
-        {/* Layer Kabupaten/Kota */}
         <Kabupaten_Kota_Layer
           selectedKabupaten={selectedKabupaten}
           setSelectedKabupaten={setSelectedKabupaten}
